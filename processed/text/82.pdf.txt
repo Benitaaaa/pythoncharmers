@@ -1,0 +1,517 @@
+ 
+United Nations
+Nations Unies 
+OFFICE OF INTERNAL OVERSIGHT SERVICES 
+PROCUREMENT TASK FORCE 
+This Report is protected under the provisions of  
+ST/SGB/273, paragraph 18, of 7 September 1994 
+REPORT ON  
+MR. WALTER CABRERA  
+Report no. PTF-R001/06 
+Case no. PTF/026/06 
+ 
+ 
+STRICTLY CONFIDENTIAL 
+ 
+ 
+ 
+ 
+ 
+19 July 2006
+
+OIOS PROCUREMENT TASK FORCE 
+REPORT ON WALTER CABRERA 
+STRICTLY CONFIDENTIAL 
+___________________________________________________________________________________________________________ 
+ 
+1
+This is a report dealing with the matters raised (1) in the audit report 
+dated 26 January 2006 PD/155/02 and (2) raised in other referrals 
+concerning Mr. Walter Cabrera, procurement officer, Headquarters 
+Procurement Section, at relevant times. 
+ 
+ 
+The following sets forth the findings of the Procurement Task Force 
+concerning United Nations staff member Walter Cabrera.     
+ 
+ 
+INTRODUCTION 
+ 
+ 
+The Procurement Task Force was created on January 12, 2006 to 
+address all procurement matters referred to the Office of Internal Oversight 
+Services (OIOS).  The creation of the Task Force was the result of perceived 
+problems in procurement identified by the Independent Inquiry Committee 
+into the Oil for Food Programme (IIC), and the arrest and conviction of UN 
+procurement officer Alexander Yakovlev. 
+ 
+            Under its Terms of Reference, the Task Force operates as part of 
+OIOS, and reports directly to the Under Secretary General of OIOS.   The 
+remit of the Task Force is to investigate all open and pending procurement 
+cases, including all matters involving the procurement bidding exercises, 
+procurement staff, and vendors doing business with the United Nations 
+(hereinafter “UN” or “Organization”).  The mandate of the Task Force also 
+includes a review in some procurement matters which have been closed, but 
+it is nevertheless determined that further investigative effort is warranted.   
+ 
+The Task Force’s investigations have also focused upon a myriad of 
+individuals and vendors doing business with the Organization.  Some of 
+these matters are particularly complex and span significant periods of time.  
+Since its inception, more than 200 matters, involving numerous procurement 
+cases in various UN Missions and UN Headquarters have been referred to 
+the Task Force.   The Task Force will report on matters individually. The 
+Task Force has given priority to the matters involving the eight staff 
+members placed on special leave with pay. 
+ 
+ 
+  The purpose of this report is to address the matters raised in the audit 
+findings of January 2006 concerning Walter Cabrera, a United Nations 
+procurement officer, and another matter brought to the attention of the Task 
+
+OIOS PROCUREMENT TASK FORCE 
+REPORT ON WALTER CABRERA 
+STRICTLY CONFIDENTIAL 
+___________________________________________________________________________________________________________ 
+ 
+2
+Force through a separate referral.    First, Mr. Cabrera is alleged to have 
+improperly provided notification to a prospective vendor that approval had 
+been granted in favor of the vendor, Thunderbird LLC (Thunderbird) for a 
+contract to provide manpower support in UN Missions, prior to the official 
+award of the contract.  Secondly, the audit report found that Cabrera 
+engaged in misconduct in connection with the procurement exercises in 
+substantial contracts ultimately awarded to the firm Telecommunications 
+Consultants of India (TCIL).  The audit report found significant fraud 
+indicators in connection with the procurement exercises in these contracts, a 
+conclusion with which the Task Force agrees.  (The Task Force will report 
+on these issues in much more detail in a subsequent report addressing related 
+matters).  However, the focus of this report is upon the conduct of Mr. 
+Cabrera individually, and whether Mr. Cabrera acted improperly in his 
+participation in these matters.   
+ 
+ 
+APPLICABLE RULES AND REGULATIONS 
+ 
+ 
+This matter is examined within the confines of the applicable United 
+Nations regulations and rules, and in particular, the following: 
+ 
+ Rule 1.2(b) which requires Staff Members to “uphold the highest standards 
+of efficiency, competence, and integrity.” The regulations define the concept 
+of integrity to include, but not limited to, “probity, impartiality, fairness, 
+honesty and truthfulness in all matters affecting their work and status.”   
+ 
+Rule 1.2(i) which requires that Staff members “shall exercise the utmost 
+discretion with regard to all matters of official business.  They shall not 
+communicate to any Government, entity, person or any other source any 
+information known to them by reason of their official position that they 
+know or ought to have known has been made public, except as appropriate 
+in the normal course of their duties or by authorization of the Secretary-
+General.” 
+ 
+ 
+ 
+METHODOLOGY 
+ 
+ 
+The Task Force has examined the discussion and findings in the audit 
+report, and spoken with both the auditors responsible for the matter, and, on 
+several occasions, Mr. Cabrera.  The Task Force has examined the file from 
+
+OIOS PROCUREMENT TASK FORCE 
+REPORT ON WALTER CABRERA 
+STRICTLY CONFIDENTIAL 
+___________________________________________________________________________________________________________ 
+ 
+3
+the procurement department (“PD”) in connection with the Thunderbird 
+matter, and the TCIL contracts. However, substantial portions of the files 
+concerning both of these cases were found to be missing.  Nonetheless, the 
+Task Force has examined relevant email communication, electronically 
+stored records, and hard copy documents received through a variety of 
+sources.  The Task Force has spoken with the officials in DPKO responsible 
+for requisition of the items underlying the contracts at issue, and other 
+United Nations procurement officers involved in these matters. 
+ 
+           With regard to the TCIL contracts, the investigation of Mr. Cabrera’s 
+involvement in the laptop procurement, more fully discussed below, has 
+faced a number of significant challenges including the procurement 
+department’s policy of short term retention of cancelled bids and the 
+turnover and movement of staff.  Nevertheless, forensic data recovery has 
+been an important tool utilized to examine the circumstances and the 
+relevant communication on the issue.  In connection with the Thunderbird 
+matter, significant portions of the Thunderbird file are also missing.  In that 
+case as well, the Task Force has been able to use forensic resources to gather 
+significant relevant information and evidence. 
+ 
+ 
+DISCUSSION 
+ 
+  
+Notice of the Award to Thunderbird LLC  
+ 
+The facts of this matter as they relate to Mr. Cabrera are not in 
+dispute.  In May, 2002, Thunderbird LLC (Thunderbird), through Mr. 
+Nishan Kohli, its Managing Partner, had submitted an application in support 
+of registering with the Organization as a vendor authorizing it to submit 
+proposals on upcoming UN contracts.  In July, 2002, after successfully being 
+registered by PD, Thunderbird, through Nishan Kohli, submitted a proposal 
+for the supply of engineering manpower to various UN Missions in response 
+to the RFP issued by the Procurement Department.  Ultimately, Mr. Sanjaya 
+Bahel, Chief of Field Procurement, had made a presentation to the 
+Headquarters Committee on Contracts (HCC) in favor of the award to 
+Thunderbird.  The matter had not been assigned to Mr. Cabrera until late 
+December, 2002, and he was involved in the case only peripherally until that 
+time.   
+ 
+
+OIOS PROCUREMENT TASK FORCE 
+REPORT ON WALTER CABRERA 
+STRICTLY CONFIDENTIAL 
+___________________________________________________________________________________________________________ 
+ 
+4
+However, after the presentation by Mr. Bahel to the HCC on 4 
+September 2002, the HCC granted expedited approval for an extension of 
+the existing contract being performed at the time by IECS-IRCON (“IECS”), 
+and a subsequent award to Thunderbird to replace IECS.  The circumstances 
+surrounding the request for expedited approval and the basis for it are not 
+fully clear.  There is no record of such a request, and there is no reference to 
+any such request in the minutes of the HCC.    Mr. Cabrera has denied 
+making the request, and there is no information in the procurement 
+department’s files on the issue or to suggest Mr. Cabrera made the request.  
+However, it is clear that the request is required to come from the 
+procurement department, either the officer making the presentation, or the 
+supervisor.  The line officer who attended the HCC meeting with Mr. Bahel 
+has denied making the request at any time, and there is not evidence to 
+suggest that she did.  
+ 
+  However, the investigation has revealed Mr. Bahel’s personal 
+involvement in ensuring that the vendor, Thunderbird, received advanced 
+notice of the likely award.  Other than the HCC secretary, Mr. Bahel is also 
+the only individual associated with the request for expedited approval in a 
+position to seek it.  The need for expedited approval for Thunderbird in the 
+first instance and the effort to notify Thunderbird quickly of a likely award is 
+questionable in light of the fact that in the same HCC meeting the current 
+vendor, IECS, was granted an extension to continue for an additional two 
+months, and that Thunderbird had failed to submit audited financial 
+statements and was given an additional four weeks to accomplish the task.  
+(However, Thunderbird took over eight weeks to file the forms).   Thus, the 
+basis for the intensive effort by Mr. Bahel to notify Thunderbird is 
+problematic, especially in light of the fact that Thunderbird’s application 
+was still not yet complete.  Curiously, there is no request for advanced 
+notification to IECS of the expedited approval of their extension. 
+ 
+  While the minutes of the HCC meeting were pending and not yet 
+finalized, however, a one page form had been issued by the HCC granting 
+expedited approval for both the continuation of the current contractor, and 
+for the replacement, Thunderbird.  The circumstances surrounding the 
+creation of this form and the request for expedited approval in the first 
+instance are troubling, and are a continued subject of the Task Force’s 
+investigation.  However, at present, there is no evidence in the possession of 
+
+OIOS PROCUREMENT TASK FORCE 
+REPORT ON WALTER CABRERA 
+STRICTLY CONFIDENTIAL 
+___________________________________________________________________________________________________________ 
+ 
+5
+the Task Force which demonstrates Mr. Cabrera participated in this aspect of 
+the matter. 
+ 
+ After the HCC presentation, Mr. Bahel, who was scheduled to leave 
+New York for annual leave, convened a meeting with Ms. Jane Redfern, a 
+UN procurement officer, and Mr. Walter Cabrera prior to his departure.  In 
+this meeting, Mr. Bahel instructed them to notify Thunderbird of the 
+recommendation to award the contract to them.  According to Mr. Cabrera, 
+he understood that he was not able to provide a Letter of Intent (LOI) to 
+Thunderbird, but was able to give verbal notification of the HCC’s action 
+based upon the document issued by the HCC.   Mr. Cabrera’s understanding 
+that this action was permissible was based upon the fact that his supervisor, 
+Mr. Bahel, directed him to do it, as well as his independent understanding at 
+the time.   At the direction of Mr. Bahel, Mr. Cabrera did in fact notify Mr. 
+Nishan Kohli that the HCC had recommended that the contract be awarded 
+to Thunderbird and that Thunderbird would likely receive the contract.   Mr. 
+Cabrera asserts that he further notified Mr. Kohli that PD could not issue an 
+LOI prior to receiving the approved HCC minutes and formal award of the 
+contract. (Mr. Kohli’s explanation of the events in his written submission to 
+the Organization through his attorney materially differs, however the Task 
+Force does not find Mr. Kohli’s representations credible). 
+ 
+   Mr. Cabrera concedes that he provided notice to Nishan Kohli at the 
+express direction of Mr. Bahel after the HCC had issued a notice of 
+expedited approval.   According to Mr. Cabrera, Mr. Bahel left instructions 
+to await a copy of the approval in his inbox in the procurement office.  
+Further, according to Mr. Cabrera, Mr. Bahel explained to Mr. Cabrera that 
+he would be out of the office and requested that Mr. Cabrera should retrieve 
+the document and notify the vendor of the likely award.  Mr. Cabrera 
+acknowledges that he followed the direction, and in the course of contact 
+with Mr. Kohli, he provided the notification. 
+ 
+While the salient facts as they relate to Mr. Cabrera set forth above are 
+not in dispute, the propriety of his actions has been questioned.  The Task 
+Force has examined whether Mr. Cabrera’s conduct ran afoul of any relevant 
+United Nations regulations or rules, particularly the prohibition against 
+improper communication of propriety information to those outside of the 
+Organization not authorized to receive it (Regulation 1.2(i)), the prohibitions 
+
+OIOS PROCUREMENT TASK FORCE 
+REPORT ON WALTER CABRERA 
+STRICTLY CONFIDENTIAL 
+___________________________________________________________________________________________________________ 
+ 
+6
+against favoring particular vendors in bidding exercises, and the 
+procurement rules in general.  Mr. Cabrera’s contention in defense of his 
+actions is that in instances in which the HCC grants expedited approval, and 
+thereafter issues the approval form, notification to the vendor that an award 
+is likely does not contravene existing rules. 
+ 
+  The Task Force has not been able to identify any precise 
+procurement rule on this point in existence at this time and requests of 
+numerous departments in the Organization have failed to produce anything 
+relevant.  Hence, there does not seem to be any clear directive either 
+permitting or prohibiting such action.  Further, several witnesses within the 
+Organization with significant experience in procurement matters have 
+informed the Task Force that in circumstances in which expedited approval 
+is sought, it is not improper to provide such conditional notice to allow a 
+contractor to prepare to comply with its obligations under the contract and 
+allow them to adequately prepare themselves to perform in a timely fashion.   
+While it is certainly questionable whether in this instance notice of expedited 
+approval was truly exigent in light of the fact that the vendor was not going 
+to perform under the contract for two months and Thunderbird had yet to 
+submit audited financial statements, there is no evidence that suggests Mr. 
+Cabrera shared responsibility for the request in the first instance, or was 
+otherwise aware of the unexplained circumstances of the request for 
+expedited approval and the basis for it.  
+ 
+ Therefore, in light of the foregoing, and the absence of a clear 
+regulation to the contrary demonstrating that Mr. Cabrera should have 
+known his actions were improper, the notification Mr. Cabrera provided 
+cannot form the basis of an adverse finding against him. 
+ 
+The TCIL Contracts 
+ 
+ 
+The contracts awarded to the firm Telecommunication Consultants of 
+India (TCIL) have been the subject of extensive examination by the Task 
+Force.  Again, while these matters will be discussed in much more 
+exhaustive and comprehensive detail in a subsequent report, they are 
+addressed herein only as they relate to Mr. Cabrera.    
+ 
+
+OIOS PROCUREMENT TASK FORCE 
+REPORT ON WALTER CABRERA 
+STRICTLY CONFIDENTIAL 
+___________________________________________________________________________________________________________ 
+ 
+7
+ 
+The Task Force has examined the five contracts set forth in Table 11 
+of the audit report AP2005/600/20 of January 19, 2006, at paragraph 123.  
+While the Task Force acknowledges that the auditors quite correctly found 
+that strong indications of fraud existed in connection with these contracts, an 
+examination of Mr. Cabrera’s role in these matters has not resulted in 
+evidence of improper conduct on his part.    The investigation has found that 
+Mr. Cabrera was not involved in the bidding procedures in these matters, 
+with the exception of one contract.   While an extensive discussion of all of 
+these cases is therefore unnecessary, an analysis of Case #5, PD/155/02, the 
+laptop computers, requires discussion as Mr. Cabrera was the case officer. 
+ 
+ 
+In this matter, the audit report found at paragraph 125 that “[t]here 
+were indications that Walter Cabrera distorted communication to DPKO for 
+the purpose of canceling the initial bid where TCIL was not the lowest 
+bidder, and the Compaq brand of computers offered by TCIL was not going 
+to be selected as a standardized brand.  TCIL won the replacement bid.”   
+ 
+ 
+In addressing this issue, some background is necessary.  First, it 
+should be noted that the procurement file in this matter was found to be 
+incomplete, missing documents and relevant information.  The Task Force 
+was able to identify more details as a result of forensic analysis of electronic 
+media.  However, it cannot be said that the Task Force is comfortable that all 
+information involving this matter has been gathered.  That said, the Task 
+Force was able to reconstruct the following facts concerning this matter from 
+various documents and searches of electronic media, and discussions with 
+relevant parties.    
+ 
+In February, 2002, DPKO Communications and Technology Services 
+Division (CITS) sought to obtain a new systems contract for laptop 
+computers.  Mr. Cabrera was the procurement officer in the procurement 
+department (PD) assigned to this matter.  The Chief of CITS communicated 
+his request to PD, and on February 25, 2002 an expression of interest was 
+issued by PD.   An invitation to bid followed on April 15, 2002 which was 
+transmitted to 36 vendors from nine countries.  
+ 
+            CITS advised PD that they desired only “IBM, Dell and Compaq” 
+based on ITSD standards for desktop computers.  On the other hand, PD and 
+the Information Technology Services Division (ITSD), involved in the 
+
+OIOS PROCUREMENT TASK FORCE 
+REPORT ON WALTER CABRERA 
+STRICTLY CONFIDENTIAL 
+___________________________________________________________________________________________________________ 
+ 
+8
+process by Mr. Bahel, recommended adding Toshiba, Sony, Fujitsu and 
+NEC to the list.  In a subsequent exchange of emails between PD and the 
+requisitioner (CITS and ITSD), CITS continued to assert that they sought 
+only the three major brands of computers to avoid “inferior products,” 
+laptops from “questionable manufacturers,” “clones” and “home built 
+computers.”  Ultimately, however, CITS agreed that they were amenable to 
+expanding the field to include other major brands of computer manufacturers 
+who were recognized industry leaders.  As a result, on April 24, 2002, the 
+case officer, Mr. Cabrera, issued a bid amendment notification to the 
+vendors correcting the anticipated quantity of the computers sought, and 
+clarifying that that only “Compaq, Dell, IBM, Toshiba, Sony, Fujitsu and 
+NEC” brands would be considered for solicitation. 
+ 
+ 
+On May 15, 2002 the bids were read publicly.  La Cresta 
+Communications of California submitted the lowest priced bid based upon a 
+Pentium III Toshiba model.  TCIL was the next lowest bidder offering a 
+Compaq model, followed by Dell, and then SSDI with an IBM, and finally 
+Manchester Technologies offering a Fujitsu model.  On May 30, 2002, Mr. 
+Cabrera notified La Cresta that the company needed to resubmit the 
+specifications for the Toshiba model they were offering as the table of 
+compliance with the bid technical terms was absent and specification pages 
+from La Cresta’s submission were contrary to the proper format.  
+Nevertheless, Mr. Cabrera allowed La Cresta to resubmit the pages.    
+ 
+ 
+In its response, La Cresta informed PD that Toshiba was 
+discontinuing the Pentium III model offered in its original submission, but 
+that they would upgrade the model proposed to a Pentium IV at no extra cost 
+to the Organization.  La Cresta informed PD that because Toshiba was 
+discontinuing the Pentium III model, they therefore could not provide the 
+anticipated quantity of Pentium III laptops called for in the RFP.  However, 
+La Cresta informed PD of its ability to fill the order for the guaranteed 
+quantity with the currently proposed model and of its readiness to fill the 
+remainder with an upgraded model at no extra cost. 
+ 
+            The investigation has revealed that Mr. Cabrera forwarded to CITS, 
+by email, La Cresta’s updated offer of an upgraded model. Email 
+communication reflects that Mr. Cabrera’s dialogue with DPKO continued 
+with respect to La Cresta’s offer.  The Task Force has expended 
+
+OIOS PROCUREMENT TASK FORCE 
+REPORT ON WALTER CABRERA 
+STRICTLY CONFIDENTIAL 
+___________________________________________________________________________________________________________ 
+ 
+9
+considerable effort to reconstruct the sequence of events that followed. A 
+three week lapse existed between the time of the finding that La Cresta was 
+determined to be compliant, and the initiation of the re-bidding exercise. In 
+the interim period, email correspondence confirms that DPKO found 
+LaCresta to be technically compliant even after the offer of an upgrade. Mr. 
+Cabrera was further in the midst of preparing the presentation to the HCC.  
+ 
+ 
+            Procurement  Department officials concede that at this point there 
+was no further issue and there was no justification not to award the contract 
+to LaCresta.  Indeed, no justification is provided to La Cresta, or found in 
+the file.  It seems that La Cresta was not formally informed of the 
+cancellation. (Typically the case officer maintains the responsibility for 
+communicating the cancellation to the vendor.)  In this case, there is no 
+correspondence in the case file from procurement to the vendor notifying 
+them of the cancellation.  A DPKO official involved in the process has 
+informed the Task Force that in conversations with PD in this interim period, 
+it was represented to him that PD had expressed a view that there was an 
+“issue” with LaCresta’s submission.  According to the official, the 
+Procurement Department suggested a re-bid because of a “technicality.”  
+While the official objected, he was told that because the matter is a 
+commercial one it is only within PD’s prerogative to cancel the bid on the 
+basis of commercial non-compliance.  This explanation is not persuasive as 
+there was no commercial or technical issue with LaCresta’s bid.  DPKO had 
+found La Cresta to be compliant and the firm was the lowest bidder.  Mr. 
+Cabrera agrees that the reasoning proffered by PD to the DPKO official is 
+not sound, but takes issue with any claim participation by him in the 
+exchange or decision.  
+ 
+              Nonetheless, it is clear that a new invitation to bid (ITB) was 
+issued.  The basis for this renewed ITB however is not clear, nor is the 
+identity of the individual(s) who sought it.  The Task Force has not 
+identified any evidence to support a finding that Mr. Cabrera was involved 
+in the decision and the documents demonstrate that Mr. Cabrera continued to 
+maintain a dialogue with DPKO concerning its requests.  Further, the Task 
+Force has not identified evidence which suggests Mr. Cabrera sought to 
+cancel the bid, and then seek a re-bidding exercise.  
+ 
+
+OIOS PROCUREMENT TASK FORCE 
+REPORT ON WALTER CABRERA 
+STRICTLY CONFIDENTIAL 
+___________________________________________________________________________________________________________ 
+ 
+10
+The investigation has revealed however that Mr. Cabrera’s supervisor, 
+Sanjaya Bahel, was intimately involved in the matter, and interjected himself 
+in it, communicating with ITSD officials and DPKO officials.  The DPKO 
+official referred to above stated that he had conversations with Mr. Bahel in 
+which Mr. Bahel confirmed that PD was of the view that there was a 
+technical issue with LaCresta’s bid, and there should be a new bidding 
+exercise. 
+ 
+The proposal was re-bid in early July.  The supplemental ITB 
+ultimately limited the solicitation to the three brands requested by CITS.  
+The ITB was based upon the upgraded specifications, the Pentium IV model.  
+Ten companies responded, and two companies, TCIL and Danoffice, were 
+the most competitive both offering the same Compaq model. TCIL offered 
+the lowest price, followed by Danoffice.  Of the initial bidders, TCIL was 
+the only company to offer a lower price for the computer model it offered.  
+All other vendors raised their prices from the initial bid.  Although La Cresta 
+offered a Compaq brand, and the second lowest bid, the model it was 
+offering was inferior to the models offered by TCIL and Danoffice, and was 
+in fact determined by CITS to be non-compliant.  
+ 
+ 
+On July 18, 2002, Sanjaya Bahel, the Officer in Charge of 
+Procurement at the time, recommended the award to TCIL for a systems 
+contract in the amount of US$5,340,000.  In the presentation of the matter to 
+the HCC, officials questioned the basis for limiting the bidding exercise to 
+the three specified brands and intimated that the PD violated UN rules and 
+regulations by the use of brand names in its ITB. Email communication after 
+the event describes a circumstance in which DPKO officials are questioned 
+about the limitation of the re-solicitation to the three preferred brands.  The 
+HCC stated that “were it not for the imminent loss of funds, the Committee 
+would have recommended that a re-bidding exercise be conducted inviting 
+all brands of laptops that met the UN’s requirement.”  Nevertheless, the 
+proposed contract award to TCIL was ultimately approved, and signed.  
+ 
+ 
+ 
+    The cancellation of the first bid, and the invitation for vendors to 
+re-submit further bids in light of the cancellation, allowed the other vendors 
+a second opportunity to bid on the laptop contract.  While it is unclear what 
+precipitated this action, the re-bidding exercise is questionable in light of the 
+fact that LaCresta was held to be technically compliant and offered the 
+
+OIOS PROCUREMENT TASK FORCE 
+REPORT ON WALTER CABRERA 
+STRICTLY CONFIDENTIAL 
+___________________________________________________________________________________________________________ 
+ 
+11
+lowest bid.  On that basis, it appears that they should have been awarded the 
+contract in the absence of objection by the requisitioner.  Mr. Cabrera 
+concedes that this is the case.   Nevertheless, there is a lack of evidence in 
+possession of the Task Force that Mr. Cabrera was a factor in causing the re-
+bidding exercise.  Indeed, he did not have the authority to do it, and past 
+practice suggests that such a decision could only come from a supervisor.   
+As such, the Task Force’s investigation cannot conclude that Mr. Cabrera 
+engaged in this act to favor TCIL, notwithstanding the fact that cancellation 
+of the initial bid and the re-bidding exercise allowed TCIL, and the other 
+vendors, a second opportunity for the contract.  
+ 
+ 
+ CONCLUSION 
+ 
+ 
+Based upon the foregoing, the Task Force’s investigation has been 
+unable to identify a sufficient basis to support a finding that procurement 
+officer Walter Cabrera acted in violation UN rules and regulations of the 
+Organization in connection with 1) his involvement in the Thunderbird 
+matter in 2002, and 2) his participation in the TCIL contracts, and in 
+particular the laptop contract, which were the subject of the audit report.       
