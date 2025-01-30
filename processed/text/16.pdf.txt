@@ -1,0 +1,288 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNITED NATIONS                    
+NATIONS UNIES 
+ 
+This report is protected under the provisions of 
+ST/SGB/273, paragraph 18, of 7 September 1994" 
+ 
+ 
+ 
+ 
+I. 
+ 
+ 
+ 
+ 
+ 
+OFFICE OF INTERNAL OVERSIGHT SERVICES 
+INVESTIGATIONS DIVISION 
+ 
+ 
+ 
+ 
+REDACTED 
+REPORT OF INVESTIGATION 
+ 
+ 
+ID CASE NO. 0374/04 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28 February 2005 
+ 
+ 
+ 
+ 
+STRICTLY CONFIDENTIAL 
+
+ 
+` 
+  
+1 
+INVESTIGATION INTO ALLEGED IRREGULARITIES IN THE PROCUREMENT OF 
+PERSONAL DIGITAL ASSISTANTS  (Case 0374/04)  
+ 
+ 
+I.     BACKGROUND 
+ 
+1. 
+The Investigations Division of the Office of Internal Oversight Services (ID/OIOS) 
+received information relating to problems in a procurement exercise for the purchase of Personal 
+Digital Assistants (PDA) undertaken in April 2004 by UNMIK’s Directorate of Rural Affairs 
+(DRA), Kosovo.  A letter of complaint from one of the bidders alleged possible irregularities in 
+the bid evaluation and selection process.  
+ 
+2. 
+An internal Pillar II review by the Policy Review and Internal Oversight Unit (PRIO) 
+highlighted possible irregularities in its preliminary report on the procurement exercise with a 
+recommendation for further investigation. This report was provided to ID/OIOS with a request 
+for further investigation. Based on the issues raised in the complaint and subsequently in the 
+PRIO Unit’s preliminary report, ID/OIOS investigated the entire tender process to determine 
+whether any violations of UN rules had occurred. 
+ 
+3. 
+The Directorate of Rural Affairs (DRA) is located within UNMIK Civil Administration 
+(Pillar II); it was formed in October 2001 out of the former Department of Agriculture in the 
+Joint Administrative Interim Structure. The DRA comprises Veterinary Services & Veterinary 
+Border Control, Phytosanitary Border Control and Public Forests.  The DRA remains a reserved 
+area under Security Council Resolution 1244 and the staff are United Nations staff members 
+subject to the UN Rules and Regulations. Also, the DRA undertakes its own procurement for all 
+of the divisions within the DRA. 
+ 
+ 
+II.     INVESTIGATION DETAILS 
+ 
+4. 
+ID/OIOS Investigators conducted interviews of all witnesses relevant to this matter, 
+including detailed interviews of the alleged subjects; collected documents and records 
+concerning the procurement, including all the bids submitted and the bid evaluation documents: 
+and analyzed the evidence.    
+ 
+5. 
+The ID/OIOS investigation also reviewed the project funded by the European Agency for 
+Reconstruction (EAR) called “Strengthening of Public Veterinary Services in Kosovo” 
+(SPUVESEK), which identified the need for Personal Digital Assistants (PDAs) to undertake the 
+task of Identification & Registration (I & R) of animals in Kosovo. The intent was to provide 
+veterinarians in the field with electronic devices to record all movements of animals in Kosovo. 
+ 
+6. 
+In late 2002, the EAR consultant prepared the technical specifications for the PDAs based 
+on the proposal in SPUVESEK’s inception report of August 2002. Based on these specifications, 
+the DRA launched an initial tender in November 2003 for the PDAs, inclusive of both hardware 
+and software.  All bids submitted exceeded the amount set aside for the purchase of the PDAs 
+(€170,000), therefore that tender was cancelled in February 2004 based on advice from the 
+Central Procurement Entity (CPE).    
+
+ 
+` 
+  
+2 
+7. 
+A second tender for the purchase of the required PDAs was then launched in April 2004, 
+using the same technical specifications. For the second tender, the DRA provided the bidders 
+with a price ceiling of €135,000 and requested that they state the number of devices in total that 
+the company could offer within the price ceiling. On 19 May 2004, the deadline for the 
+submission of bids, the DRA had received eight bids. As required, the bids were opened and 
+certified by members of a bid-opening panel consisting of DRA logistics officer 1, a DRA 
+procurement officer, DRA employee 1 and a DRA finance officer.  The complainant told 
+ID/OIOS that the bid opening process occurred without incident and in accordance with correct 
+procedural requirements. 
+ 
+8. 
+In the preliminary PRIO report, the price estimates as stated in the EAR consultant’s 
+inception report showed five different PDA models with integrated scanner capabilities. The 
+prices of the PDA models shown ranged from USD $323.38 to USD $818.30. ID/OIOS 
+adduced that the initial estimates were of regular PDAs, not the more rugged PDAs specified 
+in the technical specifications and required for use by veterinarians working in inclement 
+weather conditions.  ID/OIOS also found that the estimates were obtained from the Internet for 
+the inception report and did not include the features that would make it technically appropriate 
+for the veterinarians in the field. The actual technical specifications prepared by the EAR 
+consultant later envisaged a more rugged, durable product that would be water, dust and drop 
+resistant. The price per unit of “rugged” PDAs, as required by the technical specifications, is 
+higher than the initial estimate made in the inception report. ID/OIOS verified this through 
+Internet research.  
+ 
+9.  
+The complainant raised two main issues: firstly, that the bid submitted by Vendor 1, was 
+the lowest bid because it offered the most number of devices within the ceiling price. Secondly, 
+although two other bidders offered the same product as the winning bidder, but at a lower price, 
+they had not been selected. The PRIO preliminary report also identified these issues. ID/OIOS 
+Investigators reviewed all eight bids submitted and noted that DRA logistics officer 1 had 
+disqualified two, Vendor 2 and Vendor 3, because neither the Vendor 2 nor the Vendor 3 bid was 
+substantially responsive in that the total price of the product offered exceeded the price ceiling of 
+€135,000. During his/her pre-qualification of bids, DRA logistics officer 1 noted that Vendor 2 
+did not include taxes “CIP” Pristina Kosovo as required in the bid document, meaning the total 
+price would exceed the ceiling of €135,000 by more than €17,000; and Vendor 3’s total offer did 
+not include its yearly €16,500 maintenance surcharge fee, causing its bid to exceed the stated 
+price ceiling by more than €15,000.    
+ 
+10. 
+In order to find out why the lowest bidder, Vendor 1, was still not selected, ID/OIOS 
+spoke separately with two members of the bid evaluation panel who explained the evaluation 
+process and why the panel recommended the selected bidder, Vendor 4. ID/OIOS was told that 
+the evaluation panel examined the bid documents submitted by the six pre-qualified bidders and 
+made comments and annotations on the table provided to them by the DRA logistics officer. The 
+evaluation panel relied heavily on the technical expertise of one panel member, DRA logistics 
+officer 2, who was responsible for the evaluation of the technical features of the PDAs offered. 
+DRA logistics officer 2 told ID/OIOS that his/her handwritten entries on the table were based 
+on the discussions of the entire evaluation panel, but that he/she independently verified that the 
+product offered by each bidder did possess the declared features and that he/she checked the 
+
+ 
+` 
+  
+3 
+technical data submitted by the individual bidders with the product datasheet and brochures 
+included in the bidding documents.   
+ 
+11. 
+In terms of the priority selection criteria of the evaluation panel, DRA logistics officer 2 
+stated that the DRA had advised them to monitor not only the technical specifications but to 
+focus particularly on Section VII of the Bidding Documents “Obligatory Requirements to be 
+fulfilled by the bidders.” DRA logistics officer 2 highlighted the criteria of after-warranty 
+repair service located within Kosovo and repair or replacement within five working days 
+(based on the existing regulations in Kosovo as to notification, registration and recording of 
+information concerning movement of animals within five days of the movement).  Therefore, if 
+a PDA device used for the communication of such data broke down and was not replaced 
+within a week, farmers and veterinarians would run the risk of not complying with the law. 
+ 
+12. 
+ID/OIOS requested DRA logistics officer 2 to review each individual bid and to 
+explain his/her 
+13. 
+ annotations.  DRA logistics officer 2 pointed out that Vendor 4, Vendor 5 and 
+Vendor 6 had offered virtually the same technical device. He/she found out that the 
+“Gotive H41 IB” model offered by Vendor 6 did not substantially differ from the 
+“Gotive H41” model offered by Vendor 4 and Vendor 5. DRA logistics officer 2 
+stated that the “Gotive H41” model complied with all the requirements laid out in 
+the technical specifications and pointed out that this device was very well protected 
+against environmental impact, notably in the field.   
+  
+ 
+13. 
+According to DRA logistics officer 2, the PDA model offered by Vendor 1 was not a 
+rugged PDA; it did not comply with the IP54 protection standards essential for outdoor use.  
+At first glance, Vendor 1 appeared to be the lowest bidder, because they offered the largest 
+number of PDAs for the stated price ceiling. However, the product did not comply with the 
+technical specifications and hence would be inappropriate for use by KVS veterinarians. As 
+such, the members of the evaluation panel did not short-list Vendor 1 for further examination.   
+ 
+14. 
+However, the complainant contended that the PDA model offered by Vendor 1 did match 
+the technical specifications sought by the DRA and referred ID/OIOS to “Vendor 1’s” 
+handwritten responses to Section VI “Technical Specifications” of the Bidding documents. These 
+handwritten responses simply mark “Y” for yes and “N” for No as to whether the product 
+conformed to the technical specifications. The handwritten version shows a “Y” in the column 
+next to the technical requirement of environmental sealing.  Investigators noted that the annex 
+submitted by the complainant is different from the typed page of the Vendor 1 response to 
+Section VI found in all three sets of bid documents submitted to the DRA at the bid opening.  
+The typed page clearly indicates that the product does not contain the required dust and weather 
+resistance feature required.  
+ 
+15. 
+ID/OIOS learned that Vendor 1 did not retain a copy of the completed bid documents 
+submitted to the DRA as they had only prepared three sets, all of which were submitted to the 
+DRA on 19 May. The complainant seemed unaware of the discrepancy between the two 
+versions. ID/OIOS verified that the PDA model offered by Vendor 1 (EIA PD264-XB) does not 
+
+ 
+` 
+  
+4 
+contain the IP54 feature that would ensure environmental sealing against dust and rain. It did 
+appear from the complainant’s statements to ID/OIOS that Vendor 1 did not fully understand the 
+bidding document requirements and thus failed to offer a technically compliant product that 
+would be appropriate for outdoor use by Kosovo veterinarians. 
+ 
+16. 
+ID/OIOS also addressed the issue of why Vendor 4 was selected even though two other 
+bidders offered the same model PDA at a lower price. Based on the technical specifications, the 
+evaluation panel narrowed the choices to three bidders whose product was technically compliant 
+with the specifications.  Two panel members told ID/OIOS that among the three short-listed 
+bidders, the Vendor 4 offer seemed to be slightly more expensive than that of Vendor 5 and 
+Vendor 6.  A more thorough review indicated that both Vendor 5 and Vendor 6 did not include 
+VAT in their offers; therefore, the total bid by these two vendors did not offer the best value. 
+In addition, neither Vendor 5 nor Vendor 6 offered servicing and repair of the PDAs in Kosovo 
+and the required five days turnaround time to replace a faulty device.  Only the selected bidder, 
+Vendor 4, offered these two features along with a training component for the price submitted.  
+Given the fact that approximately 70 veterinarians were to be equipped with these PDAs, the 
+training component, although not included in the obligatory requirements, seemed to be a 
+valuable addition to the evaluation panel members.  In the end, the evaluation panel members 
+selected Vendor 4 over the two other short-listed bidders because that bid included training as 
+part of the total package thereby offering the best value within the stated price ceiling for 
+DRA-KVS.       
+ 
+ 
+III.     FINDINGS 
+ 
+17. 
+  ID/OIOS finds that the DRA finally procured PDAs from Vendor 4 based on the fact 
+that the product offered was in compliance with the technical specifications and met the 
+requirements of the bid specifications.  The lower price estimates quoted in the inception report 
+related to standard office use PDAs as opposed to rugged, environmentally sealed PDAs that 
+would be suitable for outdoor use.   
+ 
+18. 
+ID/OIOS also finds that the evaluation panel selected Vendor 4 because it was the only 
+bidder that complied with all technical specifications as well as the obligatory requirements in 
+Section VII of the bid documents such as the 12 months warranty for servicing and repair in 
+Kosovo and the five days turnaround time. In addition, it offered the best value by including a 
+training component in their offer.  
+ 
+19. 
+The evidence adduced by the investigation further confirms that the PDAs offered by 
+Vendor 1 did not conform to the technical specifications of the ITB.  Although the complainant 
+offered the largest number of PDAs within the stated ceiling price, the PDAs offered were not 
+appropriate for the designated use as set forth in the bid documents.   
+ 
+20. 
+ID/OIOS determined that the procurement exercise was conducted in accordance with the 
+UN Financial Rules and Regulations governing procurement and with UNMIK’s Finance 
+Administrative Instruction 2/1999 on public procurements using KCB funds. 
+ 
+ 
+
+ 
+` 
+  
+5 
+IV.     RECOMMENDATION 
+ 
+21. 
+Based on the above, ID/OIOS makes the following the recommendation:   
+Recommendation 1: It is recommended that UNMIK take note of ID/OIOS’ findings and 
+conclusions and advise DRA staff members, DRA employee 2 and DRA logistics officer 1 of the 
+result of this investigation.  (ID Rec. IV04/374/01) 
+ 
+ 
