@@ -1,0 +1,15 @@
+Flask
+requests
+beautifulsoup4
+spacy
+pycountry
+pyvis
+transformers
+pandas
+numpy
+PyPDF2
+networkx
+nltk
+tensorflow
+textblob
+gunicorn

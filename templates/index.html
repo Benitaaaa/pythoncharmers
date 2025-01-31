@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Country Sentiment Network</title>
+    <script>
+        function updateGraph() {
+            let country = document.getElementById("country").value;
+            let sentiment = document.getElementById("sentiment").value;
+            let region = document.getElementById("region").value;
+
+            let iframe = document.getElementById("graphFrame");
+            iframe.src = `/graph?country=${country}&sentiment=${sentiment}&region=${region}`;
+        }
+    </script>
+</head>
+<body>
+    <h1>Interactive Country Sentiment Network</h1>
+
+    <label for="region">Select Region:</label>
+    <select id="region" onchange="updateGraph()">
+        <option value="All">All</option>
+        <option value="North America">North America</option>
+        <option value="Europe">Europe</option>
+        <option value="Asia">Asia</option>
+        <option value="South America">South America</option>
+        <option value="Africa">Africa</option>
+    </select>
+
+    <label for="sentiment">Select Sentiment:</label>
+    <select id="sentiment" onchange="updateGraph()">
+        <option value="All">All</option>
+        <option value="Positive">Positive</option>
+        <option value="Negative">Negative</option>
+        <option value="Neutral">Neutral</option>
+    </select>
+
+    <label for="country">Select Country:</label>
+    <select id="country" onchange="updateGraph()">
+        <option value="All">All</option>
+    </select>
+
+    <br><br>
+    <iframe id="graphFrame" src="{{ url_for('graph') }}" width="100%" height="700px"></iframe>
+</body>
+</html>
