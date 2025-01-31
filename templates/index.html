@@ -9,9 +9,11 @@
             let country = document.getElementById("country").value;
             let sentiment = document.getElementById("sentiment").value;
             let region = document.getElementById("region").value;
+            let topN = document.getElementById("topN").value;
+            let minRelationships = document.getElementById("minRelationships").value;
 
             let iframe = document.getElementById("graphFrame");
-            iframe.src = `/graph?country=${country}&sentiment=${sentiment}&region=${region}`;
+            iframe.src = `/graph?country=${country}&sentiment=${sentiment}&region=${region}&top_n=${topN}&min_relationships=${minRelationships}`;
         }
     </script>
 </head>
@@ -26,6 +28,7 @@
         <option value="Asia">Asia</option>
         <option value="South America">South America</option>
         <option value="Africa">Africa</option>
+        <option value="Oceania">Oceania</option>
     </select>
 
     <label for="sentiment">Select Sentiment:</label>
@@ -39,6 +42,23 @@
     <label for="country">Select Country:</label>
     <select id="country" onchange="updateGraph()">
         <option value="All">All</option>
+    </select>
+
+    <label for="topN">Top N Most Mentioned Countries:</label>
+    <select id="topN" onchange="updateGraph()">
+        <option value="30">Top 30</option>
+        <option value="50">Top 50</option>
+        <option value="100">Top 100</option>
+        <option value="All">All</option>
+    </select>
+
+    <label for="minRelationships">Minimum Relationship Strength:</label>
+    <select id="minRelationships" onchange="updateGraph()">
+        <option value="1">Show All</option>
+        <option value="2">At least 2 times</option>
+        <option value="3">At least 3 times</option>
+        <option value="4">At least 4 times</option>
+        <option value="5">At least 5 times</option>
     </select>
 
     <br><br>
