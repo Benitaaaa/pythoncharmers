@@ -6,6 +6,3 @@
   PIP_NO_CACHE_DIR = "off"
   FORCE_COLOR = "1"
   PIP_EXTRA_INDEX_URL = "https://pypi.org/simple"
-
-[[plugins]]
-  package = "@netlify/plugin-local-install"
