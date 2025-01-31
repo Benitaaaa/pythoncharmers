@@ -4,3 +4,20 @@
 
 # Windows
 Thumbs.db
+
+# Logs & Temporary Files
+logs/
+*.log
+*.tmp
+
+# Build Files
+*.class
+*.o
+*.so
+*.exe
+
+# Jupyter
+.ipynb_checkpoints/
+
+config.yaml
+secrets.json
