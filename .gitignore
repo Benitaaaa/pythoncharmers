@@ -17,7 +17,8 @@ logs/
 *.exe
 
 # Jupyter
-.ipynb_checkpoints/
 
 config.yaml
 secrets.json
+lib/*
+*.ipynb_checkpoints/*
