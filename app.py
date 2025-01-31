@@ -9,7 +9,7 @@ def index():
 
 @app.route('/graph')
 def graph():
-    return render_template("country_network.html")  # Your Pyvis graph
+    return render_template("country_network_optimized_vr4.html") # Your Pyvis graph
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5001))
