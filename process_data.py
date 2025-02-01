@@ -51,7 +51,7 @@ class CountrySentimentAnalyzer:
             chunks = [" ".join(tokenizer.convert_tokens_to_string(tokens[i:i + max_length])) 
                       for i in range(0, len(tokens), max_length)]
         else:
-            chunks = [sentence]  # Use original if within limit
+            chunks = [sentence] 
     
         # Analyze sentiment for each chunk separately
         sentiments = []
@@ -61,9 +61,8 @@ class CountrySentimentAnalyzer:
                 sentiments.append(result[0]['label'])
             except RuntimeError as e:
                 print(f"Error processing chunk: {e}")
-                return "NEUTRAL"  # Default to NEUTRAL if there's an error
+                return "NEUTRAL"  
     
-        # Aggregate sentiment from all chunks
         positive_count = sentiments.count("POSITIVE")
         negative_count = sentiments.count("NEGATIVE")
     

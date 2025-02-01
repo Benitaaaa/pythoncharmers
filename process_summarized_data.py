@@ -64,17 +64,17 @@ class SummarizedTextAnalyzer:
         """Analyze sentiment while handling long sentences (Max: 512 tokens)."""
         max_length = 512  # Model token limit
         
-        # ✅ Tokenize the sentence
+        # Tokenize the sentence
         tokens = tokenizer.tokenize(sentence)
         
-        # ✅ If the tokenized input is too long, split into chunks
+        # If the tokenized input is too long, split into chunks
         if len(tokens) > max_length:
             chunks = [" ".join(tokenizer.convert_tokens_to_string(tokens[i:i + max_length])) 
                       for i in range(0, len(tokens), max_length)]
         else:
-            chunks = [sentence]  # ✅ Use original if within limit
+            chunks = [sentence]  # Use original if within limit
     
-        # ✅ Analyze sentiment for each chunk separately
+        # Analyze sentiment for each chunk separately
         sentiments = []
         for chunk in chunks:
             try:
@@ -84,7 +84,7 @@ class SummarizedTextAnalyzer:
                 print(f"Error processing chunk: {e}")
                 return "NEUTRAL"  # Default to NEUTRAL if there's an error
     
-        # ✅ Aggregate sentiment from all chunks
+        # Aggregate sentiment from all chunks
         positive_count = sentiments.count("POSITIVE")
         negative_count = sentiments.count("NEGATIVE")
     
@@ -99,7 +99,7 @@ class SummarizedTextAnalyzer:
         """Summarize extracted text using GPT-4o-mini."""
         prompt = f"""Identify the main points in the article provided.
         Find relationships involving Organizations and Countries.
-        \n\nArticle:\n{text[:4000]}"""  # ✅ Truncate to prevent exceeding token limits
+        \n\nArticle:\n{text[:4000]}"""  # Truncate to prevent exceeding token limits
 
         try:
             completion = client.chat.completions.create(
@@ -118,7 +118,7 @@ class SummarizedTextAnalyzer:
         if os.path.exists(output_pkl):
             with open(output_pkl, "rb") as f:
                 saved_data = pickle.load(f)
-                print(f"✅ Loaded existing data from {output_pkl}.")
+                print(f"Loaded existing data from {output_pkl}.")
         else:
             saved_data = {"summarized_texts": [], "country_relationships": [], "organization_relationships": [],
                           "country_mentions": defaultdict(int), "organization_mentions": defaultdict(int)}
@@ -130,7 +130,7 @@ class SummarizedTextAnalyzer:
                 filepath = os.path.join(pdf_dir, filename)
 
                 if any(entry["filename"] == filename for entry in summarized_texts):
-                    print(f"✅ Skipping {filename}, already summarized.")
+                    print(f"Skipping {filename}, already summarized.")
                     continue
 
                 with fitz_open(filepath) as doc:
@@ -150,11 +150,11 @@ class SummarizedTextAnalyzer:
         with open(output_pkl, "wb") as f:
             pickle.dump(saved_data, f)
 
-        print(f"✅ Processed PDFs and saved data to {output_pkl}.")
+        print(f"Processed PDFs and saved data to {output_pkl}.")
 
     def extract_entities_and_relationships(self, summarized_text, source):
         """Extract country and organization relationships from summarized text."""
-        doc = self.nlp(summarized_text)  # ✅ Use summarized text ONLY
+        doc = self.nlp(summarized_text)  # Use summarized text ONLY
 
         for ent in doc.ents:
             if ent.label_ == "GPE":
@@ -164,32 +164,32 @@ class SummarizedTextAnalyzer:
             elif ent.label_ == "ORG":
                 self.organization_mentions[ent.text] += 1
 
-        # ✅ Extract country relationships with sentiment
+        # Extract country relationships with sentiment
         for sent in doc.sents:
             entities_in_sent = [self.standardize_country_name(e.text) for e in sent.ents if e.label_ == "GPE"]
             #entities_in_sent = [e.text for e in sent.ents if e.label_ == "GPE"]
             entities_in_sent = [e for e in entities_in_sent if e]
-            
+
             if len(entities_in_sent) >= 2:
-                sentiment = self.get_sentiment(sent.text)  # ✅ Sentiment only for summarized text
+                sentiment = self.get_sentiment(sent.text)  # Sentiment only for summarized text
                 self.country_relationships.append({
                     'source': entities_in_sent[0],
                     'target': entities_in_sent[1],
                     'sentence': sent.text,
-                    'sentiment': sentiment,  # ✅ Store sentiment
+                    'sentiment': sentiment, 
                     'source_file': source
                 })
 
-        # ✅ Extract organization relationships with sentiment
+        # Extract organization relationships with sentiment
         for sent in doc.sents:
             entities_in_sent = [e.text for e in sent.ents if e.label_ == "ORG"]
             if len(entities_in_sent) >= 2:
-                sentiment = self.get_sentiment(sent.text)  # ✅ Sentiment only for summarized text
+                sentiment = self.get_sentiment(sent.text) 
                 self.organization_relationships.append({
                     'source': entities_in_sent[0],
                     'target': entities_in_sent[1],
                     'sentence': sent.text,
-                    'sentiment': sentiment,  # ✅ Store sentiment
+                    'sentiment': sentiment,  
                     'source_file': source
                 })
 
@@ -198,13 +198,13 @@ class SummarizedTextAnalyzer:
         if os.path.exists(filename):
             with open(filename, "rb") as f:
                 data = pickle.load(f)
-            print(f"✅ Loaded data from {filename}.")
+            print(f"Loaded data from {filename}.")
             return data
         else:
-            print(f"⚠️ No data found in {filename}. Run processing first!")
+            print(f"No data found in {filename}. Run processing first!")
             return None
 if __name__ == "__main__":
-    pdf_dir = "pdfs"  # Change this to the folder containing PDFs
+    pdf_dir = "pdfs" 
 
     analyzer = SummarizedTextAnalyzer()
     
@@ -213,6 +213,6 @@ if __name__ == "__main__":
     with open("processed_countries_and_organizations.pkl", "rb") as f:
         data = pickle.load(f)
 
-    print(f"📊 Total Country Relationships: {len(data['country_relationships'])}")
-    print(f"📊 Total Organization Relationships: {len(data['organization_relationships'])}")
-    print("✅ Data processing complete.")
+    print(f"Total Country Relationships: {len(data['country_relationships'])}")
+    print(f"Total Organization Relationships: {len(data['organization_relationships'])}")
+    print("Data processing complete.")
