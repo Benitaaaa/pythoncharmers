@@ -34,7 +34,7 @@ def get_continent(country_name):
         return "Unknown"
 
 # Function to generate Pyvis graph dynamically based on filters
-def generate_filtered_pyvis_graph(country="All", sentiment="All", region="All", top_n=30, min_relationships=2):
+def generate_filtered_pyvis_graph(country, sentiment, region, top_n, min_relationships):
     net = Network(height="900px", width="100%", bgcolor="#222222", font_color="white", notebook=True, cdn_resources='in_line')
     net.force_atlas_2based(gravity=-30, central_gravity=0.02, spring_length=250, spring_strength=0.1)
 
@@ -105,7 +105,7 @@ def graph():
     region = request.args.get("region", "All")
     top_n = request.args.get("top_n", "30")
     min_relationships = request.args.get("min_relationships", "2")
-    print(f"Current Working Directory: {os.getcwd()}")
+    print(country, sentiment, region, top_n, min_relationships)
     graph_file = generate_filtered_pyvis_graph(country, sentiment, region, top_n, min_relationships)
     return render_template("country_network_filtered.html")
 
