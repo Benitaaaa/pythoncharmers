@@ -109,7 +109,7 @@ def graph():
     min_relationships = request.args.get("min_relationships", "2")
     print(f"Current Working Directory: {os.getcwd()}")
     graph_file = generate_filtered_pyvis_graph(country, sentiment, region, top_n, min_relationships)
-    return send_from_directory("country_network_filtered.html")
+    return send_from_directory("pythoncharmers/templates", "country_network_filtered.html")
     # return render_template("country_network_filtered.html")
 
 if __name__ == "__main__":
