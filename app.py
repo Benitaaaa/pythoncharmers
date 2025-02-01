@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, send_from_directory
+from flask import Flask, jsonify, render_template, request, send_from_directory
 import pickle
 from pyvis.network import Network
 import math
@@ -206,23 +206,22 @@ def home():
 def graph_news():
     graph_file = generate_filtered_pyvis_graph()
     graph_url = f"/static/{graph_file.split('/')[-1]}"  # Convert file path to URL
-    return render_template("graph_wrapper.html", graph_url=graph_url, title="News Relationships")
+    return render_template("graph_wrapper.html", graph_url=graph_url, title="Country Relations from Scraping News Articles")
 
 @app.route("/graph/country")
 def graph_country():
     graph_file = generate_filtered_pyvis_graph_pdf(entity_type="country")
     graph_url = f"/static/{graph_file.split('/')[-1]}"  # Convert file path to URL
-    return render_template("graph_wrapper.html", graph_url=graph_url, title="Country Relationships")
+    return render_template("graph_wrapper.html", graph_url=graph_url, title="Country Relations from Given Reports")
 
 @app.route("/graph/organization")
 def graph_organization():
     graph_file = generate_filtered_pyvis_graph_pdf(entity_type="organization")
     graph_url = f"/static/{graph_file.split('/')[-1]}"  # Convert file path to URL
-    return render_template("graph_wrapper.html", graph_url=graph_url, title="Organization Relationships")
+    return render_template("graph_wrapper.html", graph_url=graph_url, title="Organization Relations from Given Reports")
 
 @app.route("/update_graph/<graph_type>")
 def update_graph(graph_type):
-    """Only updates the iframe graph without reloading the full page."""
     country = request.args.get("country", "All")
     sentiment = request.args.get("sentiment", "All")
     region = request.args.get("region", "All")
@@ -233,16 +232,35 @@ def update_graph(graph_type):
 
     print(f"Updating graph with filters: {country}, {sentiment}, {region}, {top_n}, {min_relationships}")
 
+    #if graph_type == "news":
+    #    graph_file = generate_filtered_pyvis_graph(
+    #        country=country, sentiment=sentiment, region=region, top_n=top_n, min_relationships=min_relationships
+    #    )
+    #else:
+    #    graph_file = generate_filtered_pyvis_graph_pdf(
+    #        entity_type=graph_type, sentiment=sentiment, region=region, top_n=top_n, min_relationships=min_relationships
+    #    )
+
+    #return f"/static/{os.path.basename(graph_file)}"
+
+    ## Assign title dynamically
     if graph_type == "news":
+        title = f"Country Relations from News Sentiment"
         graph_file = generate_filtered_pyvis_graph(
             country=country, sentiment=sentiment, region=region, top_n=top_n, min_relationships=min_relationships
         )
     else:
+        title = f"{graph_type.capitalize()} Relations from Reports"
         graph_file = generate_filtered_pyvis_graph_pdf(
             entity_type=graph_type, sentiment=sentiment, region=region, top_n=top_n, min_relationships=min_relationships
         )
 
-    return f"/static/{os.path.basename(graph_file)}"
+    graph_url = f"/static/{os.path.basename(graph_file)}"
+
+    return jsonify({
+        "graph_url": graph_url,
+        "title": title
+    })
 
 
 if __name__ == "__main__":

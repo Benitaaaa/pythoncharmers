@@ -8,16 +8,15 @@ function updateGraph() {
     let minRelationships = document.getElementById("minRelationships")?.value || "1";
     let graphType = document.getElementById("graphType")?.value || "news"; 
 
-    let iframe = document.getElementById("graphFrame");
-
-    // ✅ Fetch the new graph file and update the iframe
-    fetch(`/update_graph/${graphType}?country=${country}&sentiment=${sentiment}&region=${region}&top_n=${topN}&min_relationships=${minRelationships}`)
-        .then(response => response.text())  // ✅ Get the correct graph file URL
-        .then(url => {
-            console.log("Updated Graph URL:", url);  // ✅ Debugging log
-            iframe.src = url;  // ✅ Update iframe with the correct URL
-        })
-        .catch(error => console.error("Error updating graph:", error));
+    let url = `/update_graph/${graphType}?country=${encodeURIComponent(country)}&sentiment=${encodeURIComponent(sentiment)}&region=${encodeURIComponent(region)}&top_n=${topN}&min_relationships=${minRelationships}`;
+    
+    fetch(url)
+    .then(response => response.json())
+    .then(data => {
+        document.getElementById("graphFrame").src = data.graph_url;  // Update graph
+        document.getElementById("title").innerText = data.title;    // Update title
+    })
+    .catch(error => console.error("Error updating graph:", error));
 }
 
 
