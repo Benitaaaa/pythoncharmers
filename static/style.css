@@ -141,6 +141,7 @@ button {
     border-radius: 10px;
     width: 300px;
 }
-button:hover {
-    background-color: #0056b3;
+.button:hover {
+    background: #7b68ee;
+    box-shadow: 0 0 10px #7b68ee;
 }

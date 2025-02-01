@@ -4,18 +4,119 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ title }}</title>
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&display=swap" rel="stylesheet">
+    </head>
+    
 
     <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Space Grotesk', sans-serif;
+            background: url("{{ url_for('static', filename='bg.jpg') }}") no-repeat center center/cover;
+            color: white;
+            text-align: center;
+        }
+
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h2 {
+            font-family: "Space Grotesk";
+            color: #66f5c3;
+            font-size: 2.8rem;
+            background: linear-gradient(271deg,#a0c3ff 30%,#62e8b9 50%,#9693f0 70%,#edca85 94%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .filter-container label {
+            font-size: 0.9rem; 
+            color: #d1d1d1;
+            font-weight: 500;
+        }
+
+        .filter-container {
+            display: flex;
+            flex-wrap: nowrap; 
+            align-items: center;
+            justify-content: center;
+            gap: 8px; 
+            overflow-x: auto; 
+            white-space: nowrap;
+            padding: 10px;
+        }
+
+        .filter-container select {
+            background: rgba(255, 255, 255, 0.2);
+            color: #ffffff;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            padding: 6px 10px; 
+            border-radius: 6px;
+            font-size: 0.9rem;
+            outline: none;
+            transition: all 0.3s ease-in-out;
+            max-width: 150px; 
+}
+  
+        select:hover {
+            background: rgba(255, 255, 255, 0.4);
+            border: 1px solid rgba(255, 255, 255, 0.5);
+        }
+
+
         #graphFrame {
             width: 100%;
             height: 700px;
-            border: none;
+            border-radius: 10px;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .back-button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 24px;
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: white;
+            background: #222;
+            border-radius: 8px;
+            text-decoration: none;
+            transition: 0.3s ease-in-out;
+        }
+
+        label {
+            color: #d1d1d1; 
+            font-size: 1rem;
+            font-weight: 500;
+            font-family: "Space Grotesk", sans-serif;
+        }
+
+        .back-button:hover {
+            background: #7b68ee;
+            box-shadow: 0 0 10px #7b68ee;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+            .container {
+                width: 95%;
+            }
+            select {
+                font-size: 0.9rem;
+            }
         }
     </style>
     
 </head>
 <body>
-    <h1>{{ title }}</h1>
+    <h2>{{ title }}</h2>
 
     {% include 'filters.html' %}  
 
