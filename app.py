@@ -122,7 +122,7 @@ def generate_filtered_pyvis_graph(country="All", sentiment="All", region="All", 
         net.add_edge(source, target, width=2, color=edge_color, title=relation["sentence"])
 
     # ✅ Save the graph
-    output_file = "static/country_network_filtered.html"
+    output_file = "pythoncharmer/static/country_network_filtered.html"
     net.show(output_file)
     # time.sleep(0.7)
     return output_file
@@ -186,7 +186,7 @@ def generate_filtered_pyvis_graph_pdf(entity_type="country", country="All", sent
         net.add_edge(relation["source"], relation["target"], width=2, color=edge_color, title=relation["sentence"])
 
     # ✅ Save the Graph
-    output_file = f"static/{entity_type}_network_filtered_pdf.html"
+    output_file = f"pythoncharmer/static/{entity_type}_network_filtered_pdf.html"
     net.show(output_file)
     return output_file
 
