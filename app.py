@@ -105,7 +105,7 @@ def graph():
     region = request.args.get("region", "All")
     top_n = request.args.get("top_n", "30")
     min_relationships = request.args.get("min_relationships", "2")
-
+    print(f"Current Working Directory: {os.getcwd()}")
     graph_file = generate_filtered_pyvis_graph(country, sentiment, region, top_n, min_relationships)
     return render_template("country_network_filtered.html")
 
