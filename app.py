@@ -122,7 +122,7 @@ def generate_filtered_pyvis_graph(country="All", sentiment="All", region="All", 
         net.add_edge(source, target, width=2, color=edge_color, title=relation["sentence"])
 
     # ✅ Save the graph
-    print(os.getcwd())
+    print("Ya ampun plis gw cape bgt", os.getcwd())
     output_file = "pythoncharmer/static/country_network_filtered.html"
     net.show(output_file)
     # time.sleep(0.7)
