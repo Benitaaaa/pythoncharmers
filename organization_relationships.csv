@@ -1,0 +1,852 @@
+source,target,sentence,sentiment,source_file
+UNMIK,Divisional,"7. **Documentation**: The Divisional Manager provided documents concerning the incident, which included a letter to a UNMIK police officer and notes from the PEAP Official detailing the circumstances of the envelope being found.
+
+",NEGATIVE,49.pdf
+Chain of Command,UNMIK,"**Chain of Command**: Following the discovery of the money, the Divisional Manager reported the incident to their superior, which subsequently led to notification of the UNMIK police.
+
+",NEGATIVE,49.pdf
+UNMIK,Divisional,"**Chain of Command**: Following the discovery of the money, the Divisional Manager reported the incident to their superior, which subsequently led to notification of the UNMIK police.
+
+",NEGATIVE,49.pdf
+The United Nations,the United Nations Interim Administration Mission,"**United Nations / UNMIK**: The United Nations established the United Nations Interim Administration Mission in Kosovo (UNMIK) to oversee administrative tasks in the region, including law enforcement.
+
+",POSITIVE,49.pdf
+the United Nations Interim Administration Mission,UNMIK,"**United Nations / UNMIK**: The United Nations established the United Nations Interim Administration Mission in Kosovo (UNMIK) to oversee administrative tasks in the region, including law enforcement.
+
+",POSITIVE,49.pdf
+Procurement Specialist,Kosovo Trust Agency,"4. **Kosovo Trust Agency (KTA)**: The KTA, as the entity with a Procurement Specialist present at the meeting, is indirectly related to the investigation, highlighting relationships between governmental/support organizations involved in the procurement process.
+
+",POSITIVE,49.pdf
+the Office of Internal Oversight Services,UN,"**United Nations (UN)**: The overarching organization that includes entities like UNMIL and the Office of Internal Oversight Services (ID/OIOS).
+
+",POSITIVE,60.pdf
+Office of Internal Oversight Services,UN,"3. **ID/OIOS (Office of Internal Oversight Services)**: An internal body of the UN responsible for conducting investigations into allegations of misconduct within the organization, specifically the entity that handled the investigation related to UNMIL.
+
+",NEGATIVE,60.pdf
+UN,UNMIL,"3. **ID/OIOS (Office of Internal Oversight Services)**: An internal body of the UN responsible for conducting investigations into allegations of misconduct within the organization, specifically the entity that handled the investigation related to UNMIL.
+
+",NEGATIVE,60.pdf
+the National Security Agency,NSA,"**NSA Intercepts**: The article discusses a top-secret report from the National Security Agency (NSA) detailing intercepted communications from French officials expressing concerns about the U.S. backing away from a bilateral intelligence cooperation agreement.
+
+",NEGATIVE,89.pdf
+The European Aeronautic Defence and Space Corporation,EADS,"5. **EADS Contract**: The European Aeronautic Defence and Space Corporation (EADS) was involved in a pending contract with the U.S. military regarding tanker aircraft, which was expected to be discussed.
+
+",NEGATIVE,89.pdf
+U.S. Government & EADS,EADS,"2. **U.S. Government & EADS**: There are negotiations between the U.S. military and EADS for a tanker aircraft contract, which indicates a business relationship involving defense procurement and potentially influencing military capabilities.
+
+",NEGATIVE,89.pdf
+UN,UNMIL,**United Nations (UN)**: The overarching organization under which UNMIL operates.,POSITIVE,63.pdf
+UN,UNMIL,"**Mission des Nations Unies au République Démocratique de Congo (MONUC)**: The previous mission where Officer 1 served before joining UNMIL, indicating a relationship in terms of personnel movement within UN operations.
+
+",POSITIVE,63.pdf
+the Investigations Division of the Office of Internal Oversight Services,the United Nations Office,"**Investigation Initiation**: The report details an investigation launched by the Investigations Division of the Office of Internal Oversight Services (ID/OIOS) in response to an allegation involving a staff member from the United Nations Office in Nairobi (UNON/ITS).
+
+",NEUTRAL,73.pdf
+the United Nations,Financial Regulations and Rules,"**Applicable Laws and Regulations**: The report references several laws and regulations that are applicable to UN staff, including the need to uphold standards of integrity and compliance with Financial Regulations and Rules of the United Nations.
+
+",POSITIVE,73.pdf
+Financial Regulations and Rules,UN,"**Applicable Laws and Regulations**: The report references several laws and regulations that are applicable to UN staff, including the need to uphold standards of integrity and compliance with Financial Regulations and Rules of the United Nations.
+
+",POSITIVE,73.pdf
+Interviews Conducted,UNON,"**Research and Interviews Conducted**: The investigative methodology involved reviewing relevant documents and interviewing staff from UNON, UNPOS, and UNDP to gather evidence related to the alleged misconduct.
+
+",POSITIVE,73.pdf
+UNON,UNDP,"**Research and Interviews Conducted**: The investigative methodology involved reviewing relevant documents and interviewing staff from UNON, UNPOS, and UNDP to gather evidence related to the alleged misconduct.
+
+",POSITIVE,73.pdf
+the Department of Political Affairs,UNON,"**Background of UNPOS**: UNPOS, established by the Department of Political Affairs (DPA), is located in Gigiri, Kenya, and receives support from UNON.
+
+",POSITIVE,73.pdf
+UNON,DPA,"**Background of UNPOS**: UNPOS, established by the Department of Political Affairs (DPA), is located in Gigiri, Kenya, and receives support from UNON.
+
+",POSITIVE,73.pdf
+United Nations Political Office,United Nations Office,"1. **UNON and UNPOS Relationship**: 
+   - UNON (United Nations Office in Nairobi) provides common services support to UNPOS (United Nations Political Office for Somalia).",POSITIVE,73.pdf
+the Department of Political Affairs,DPA,"2. **UNPOS and Department of Political Affairs (DPA)**:
+   - UNPOS is a mission established by the Department of Political Affairs (DPA), which signifies a directive relationship and oversight by the DPA over UNPOS operations.
+  
+",POSITIVE,73.pdf
+DPA,Department of Political Affairs,"2. **UNPOS and Department of Political Affairs (DPA)**:
+   - UNPOS is a mission established by the Department of Political Affairs (DPA), which signifies a directive relationship and oversight by the DPA over UNPOS operations.
+  
+",POSITIVE,73.pdf
+UNDP,United Nations Development Programme,"3. **UNON and UNDP**:
+   - The investigation involved interviews with staff from UNDP (United Nations Development Programme), indicating that there could be collaborative efforts or shared responsibilities among these agencies in Nairobi.
+
+",NEGATIVE,73.pdf
+UN Agencies,The Office of Internal Oversight Services,"**ID/OIOS and UN Agencies**:
+   - The Office of Internal Oversight Services (ID/OIOS) has oversight authority over various UN bodies, including UNON and UNPOS, highlighting its role in ensuring compliance with regulations and investigating allegations of misconduct within these organizations.
+
+",POSITIVE,73.pdf
+The Office of Internal Oversight Services,UN,"**ID/OIOS and UN Agencies**:
+   - The Office of Internal Oversight Services (ID/OIOS) has oversight authority over various UN bodies, including UNON and UNPOS, highlighting its role in ensuring compliance with regulations and investigating allegations of misconduct within these organizations.
+
+",POSITIVE,73.pdf
+UN,UNON,"**ID/OIOS and UN Agencies**:
+   - The Office of Internal Oversight Services (ID/OIOS) has oversight authority over various UN bodies, including UNON and UNPOS, highlighting its role in ensuring compliance with regulations and investigating allegations of misconduct within these organizations.
+
+",POSITIVE,73.pdf
+the Kosovo Trust Agency,UNMIK,"4. **Background**: Pristina International Airport is a state-owned enterprise governed by Yugoslav law, with administration changing hands between various organizations post-1999, including UNMIK and the Kosovo Trust Agency (KTA).
+
+",POSITIVE,9.pdf
+UN,United Nations Interim Administration Mission,"**United Nations (UN)** and **UNMIK**: UNMIK (United Nations Interim Administration Mission in Kosovo) is an entity established by the UN to administer Kosovo and manage public assets, including Pristina International Airport.
+
+",POSITIVE,9.pdf
+UNMIK,Kosovo Trust Agency,"3. **Kosovo Trust Agency (KTA)**: The KTA succeeded the administration of the airport, receiving control from UNMIK under specific regulatory frameworks.",POSITIVE,9.pdf
+Kosovo Trust Agency,KTA,"3. **Kosovo Trust Agency (KTA)**: The KTA succeeded the administration of the airport, receiving control from UNMIK under specific regulatory frameworks.",POSITIVE,9.pdf
+the United Nations Interim Administration Mission,UNMIK,"**Background and Investigation Trigger**: The article discusses an investigation initiated by the United Nations Interim Administration Mission in Kosovo (UNMIK) regarding allegations of irregularities in two tender processes for cleaning machines at Pristina International Airport, stemming from a 2003 audit report.
+
+",NEGATIVE,8.pdf
+UN,UNMIK,"**United Nations (UN)**:
+   - Governing body of UNMIK and sets procedural rules for operations within Kosovo.
+
+",POSITIVE,8.pdf
+UNMIK,ITF,"These organizations are interconnected through the investigation process, with UNMIK overseeing the tendering process, the ITF conducting the investigation, and the Chartered Accountants prompting the inquiry through their audit findings.",POSITIVE,8.pdf
+DRA,UNMIK) Directorate of Rural Affairs,"*Background of the Investigation**:
+   - The Office of Internal Oversight Services (ID/OIOS) initiated an investigation into alleged irregularities during a procurement process for Personal Digital Assistants (PDAs) by the UN Mission in Kosovo (UNMIK) Directorate of Rural Affairs (DRA).
+   ",NEGATIVE,16.pdf
+UNMIK) Directorate of Rural Affairs,The Office of Internal Oversight Services,"*Background of the Investigation**:
+   - The Office of Internal Oversight Services (ID/OIOS) initiated an investigation into alleged irregularities during a procurement process for Personal Digital Assistants (PDAs) by the UN Mission in Kosovo (UNMIK) Directorate of Rural Affairs (DRA).
+   ",NEGATIVE,16.pdf
+The Office of Internal Oversight Services,Personal Digital Assistants,"*Background of the Investigation**:
+   - The Office of Internal Oversight Services (ID/OIOS) initiated an investigation into alleged irregularities during a procurement process for Personal Digital Assistants (PDAs) by the UN Mission in Kosovo (UNMIK) Directorate of Rural Affairs (DRA).
+   ",NEGATIVE,16.pdf
+Personal Digital Assistants,the UN Mission,"*Background of the Investigation**:
+   - The Office of Internal Oversight Services (ID/OIOS) initiated an investigation into alleged irregularities during a procurement process for Personal Digital Assistants (PDAs) by the UN Mission in Kosovo (UNMIK) Directorate of Rural Affairs (DRA).
+   ",NEGATIVE,16.pdf
+PRIO,the Policy Review and Internal Oversight Unit,"- A preliminary review by the Policy Review and Internal Oversight Unit (PRIO) indicated possible irregularities and prompted a more thorough investigation by ID/OIOS.
+
+",NEGATIVE,16.pdf
+DRA,the UNMIK Civil Administration,"**The Directorate of Rural Affairs (DRA)**:
+   - DRA is part of the UNMIK Civil Administration, established in 2001, and is responsible for various agricultural services.
+   -",NEUTRAL,16.pdf
+the UNMIK Civil Administration,The Directorate of Rural Affairs,"**The Directorate of Rural Affairs (DRA)**:
+   - DRA is part of the UNMIK Civil Administration, established in 2001, and is responsible for various agricultural services.
+   -",NEUTRAL,16.pdf
+DRA,UN,"The DRA oversees its own procurement processes, which are governed by UN rules and regulations.
+
+",NEGATIVE,16.pdf
+the European Agency for Reconstruction,EAR,"- The investigation also included a review of an initiative funded by the European Agency for Reconstruction (EAR) aimed at strengthening public veterinary services in Kosovo, which identified the need for PDAs.
+
+",NEUTRAL,16.pdf
+DRA,European Agency for,"3. **DRA and European Agency for Reconstruction (EAR)**:
+   - The DRA’s procurement of PDAs is linked to funding and technical specifications provided by the EAR through the SPUVESEK project.
+
+",NEGATIVE,16.pdf
+European Agency for,EAR,"3. **DRA and European Agency for Reconstruction (EAR)**:
+   - The DRA’s procurement of PDAs is linked to funding and technical specifications provided by the EAR through the SPUVESEK project.
+
+",NEGATIVE,16.pdf
+Central Procurement Entity,DRA,"4. **DRA and Central Procurement Entity (CPE)**:
+   - The DRA relied on the expertise of the CPE for advice, leading to the cancellation of the initial tender for PDAs due to budget excess.
+
+",NEGATIVE,16.pdf
+DRA,CPE,"4. **DRA and Central Procurement Entity (CPE)**:
+   - The DRA relied on the expertise of the CPE for advice, leading to the cancellation of the initial tender for PDAs due to budget excess.
+
+",NEGATIVE,16.pdf
+UN,EAR,These relationships illustrate the interconnectedness of various organizations within the UN system and external agencies like the EAR in the context of procurement processes and oversight.,POSITIVE,16.pdf
+EU,UN,"**UN Secretary-General's Emphasis on EU Leadership**: Ban Ki-moon stressed the importance of the EU maintaining its leadership role in combating climate change during a discussion with German Chancellor Angela Merkel.
+   
+",POSITIVE,114.pdf
+UN,Emphasis,"**UN Secretary-General's Emphasis on EU Leadership**: Ban Ki-moon stressed the importance of the EU maintaining its leadership role in combating climate change during a discussion with German Chancellor Angela Merkel.
+   
+",POSITIVE,114.pdf
+the UN Conference on Climate Change,EU Summit,"2. **Impact of EU Summit on Climate Change Conferences**: The upcoming EU Summit in Brussels is seen as critical for influencing the UN Conference on Climate Change in Poznan and the 2009 Copenhagen Talks.
+
+",NEGATIVE,114.pdf
+EU Summit,EU Summit on Climate Change Conferences,"2. **Impact of EU Summit on Climate Change Conferences**: The upcoming EU Summit in Brussels is seen as critical for influencing the UN Conference on Climate Change in Poznan and the 2009 Copenhagen Talks.
+
+",NEGATIVE,114.pdf
+EU,UN,"3. **Need for Positive Signals from the EU**: Ban highlighted that without strong leadership and positive actions from the EU, it would be challenging for the UN to make a commitment in Poznan.
+
+",NEGATIVE,114.pdf
+United Nations,UN,**UN (United Nations),NEUTRAL,114.pdf
+EU,UN,"- **Relationship with EU**: The EU's leadership is crucial for the UN's climate agenda and initiatives, particularly in the context of upcoming conferences.
+
+",POSITIVE,114.pdf
+EU,European Union,2. **EU (European Union),POSITIVE,114.pdf
+EU,the EU Summit,"**:
+   - **Leader Role**: Tasked with displaying leadership in climate policy, with expectations for significant outcomes from the EU Summit that impact UN efforts.
+   - **Collaboration with Germany**: Germany, particularly under Chancellor Merkel, is a key player in EU's climate initiatives, seeking to negotiate agreements within the Union.
+
+",POSITIVE,114.pdf
+the EU Summit,UN,"**:
+   - **Leader Role**: Tasked with displaying leadership in climate policy, with expectations for significant outcomes from the EU Summit that impact UN efforts.
+   - **Collaboration with Germany**: Germany, particularly under Chancellor Merkel, is a key player in EU's climate initiatives, seeking to negotiate agreements within the Union.
+
+",POSITIVE,114.pdf
+EU,UN,"3. **U.S. Administration**:
+   - **Engagement**: The potential for a new U.S. administration's involvement indicates an important relationship for future climate discussions and agreements alongside the UN and EU.
+
+",POSITIVE,114.pdf
+EU,UN,"**Copenhagen Talks and Poznan Conference**:
+   - Both conferences represent collaborative efforts between the UN and member countries, including the EU and U.S., to address climate change negotiations.",POSITIVE,114.pdf
+KFOR,Cargo Department,"**Allegation of Fraud**: The article outlines allegations of fraud within the Pristina Airport's Cargo Department related to an invoice for mail handling for a Member State's KFOR, with suspicions arising due to the inability to locate the invoice in financial records.
+
+",NEGATIVE,15.pdf
+KFOR,VAT,"3. **Issues with Invoicing**: Key issues include the high fees charged for handling outgoing mail, the incorrect invoicing to KFOR instead of the Airline, and the inappropriate addition of VAT for international traffic.
+
+",NEGATIVE,15.pdf
+VAT,The Investigation Task Force,"**Investigation Findings**: The Investigation Task Force (ITF) found that Pristina Airport reduced its handling charges and stopped charging VAT, indicating resolution of the initial concerns.",NEGATIVE,15.pdf
+the United Nations,UN,"**United Nations (UN)** and **United Nations Interim Administration Mission in Kosovo (UNMIK)**: UNMIK operates under the umbrella of the United Nations, tasked with overseeing the administration in Kosovo.
+
+",POSITIVE,15.pdf
+UN,UNMIK,"**United Nations (UN)** and **United Nations Interim Administration Mission in Kosovo (UNMIK)**: UNMIK operates under the umbrella of the United Nations, tasked with overseeing the administration in Kosovo.
+
+",POSITIVE,15.pdf
+UNMIK,ITF,"3. **Investigation Task Force (ITF)** and **UNMIK**: The ITF operates within UNMIK, focusing on investigations related to allegations of misconduct.
+
+",NEGATIVE,15.pdf
+the United Nations Interim Administration Mission,UNMIK,"**Investigation Context**:
+   - The article discusses an investigation by the United Nations Interim Administration Mission in Kosovo (UNMIK) into allegations of bribery and favoritism concerning the procurement of uniforms by Pristina Airport.
+
+",POSITIVE,14.pdf
+Internal Audit Unit,IAU,"2. **Allegations Raised**:
+   - A Kosovo Trust Agency (KTA) Internal Audit Unit (IAU) memorandum raised issues regarding the cancellation of a competitive tender and the issuance of a single-source contract for staff uniforms, which allegedly favored Vendor 2.
+
+",NEGATIVE,14.pdf
+IAU,Kosovo Trust Agency,"2. **Allegations Raised**:
+   - A Kosovo Trust Agency (KTA) Internal Audit Unit (IAU) memorandum raised issues regarding the cancellation of a competitive tender and the issuance of a single-source contract for staff uniforms, which allegedly favored Vendor 2.
+
+",NEGATIVE,14.pdf
+Internal Audit Unit,Kosovo Trust Agency,"2. **Kosovo Trust Agency (KTA) and Pristina Airport**:
+   - The KTA's Internal Audit Unit conducted an audit at Pristina Airport, showcasing an internal oversight function to maintain transparency and accountability in procurement practices.
+
+",POSITIVE,14.pdf
+EU Council,EU Council's Position*,"**EU Council's Position**: Herman Van Rompuy, the EU Council President, encouraged Italy to adopt policies to mitigate perceptions of its debt issues, suggesting that Spain's approach could serve as a model for Italy.
+
+### Relationships Involving Entities of Type Organization:
+",POSITIVE,111.pdf
+the Ministry of Foreign Affairs,MFA,"**NSA Report on Intelligence Intercepts**: The article discusses a secret NSA report derived from intercepts involving Japanese officials from the Ministry of Economy, Trade, and Industry (METI) and the Ministry of Foreign Affairs (MFA) before Prime Minister Shinzo Abe's visit to Washington DC.
+
+",NEGATIVE,105.pdf
+MFA,"the Ministry of Economy, Trade","**NSA Report on Intelligence Intercepts**: The article discusses a secret NSA report derived from intercepts involving Japanese officials from the Ministry of Economy, Trade, and Industry (METI) and the Ministry of Foreign Affairs (MFA) before Prime Minister Shinzo Abe's visit to Washington DC.
+
+",NEGATIVE,105.pdf
+"the Ministry of Economy, Trade",NSA,"**NSA Report on Intelligence Intercepts**: The article discusses a secret NSA report derived from intercepts involving Japanese officials from the Ministry of Economy, Trade, and Industry (METI) and the Ministry of Foreign Affairs (MFA) before Prime Minister Shinzo Abe's visit to Washington DC.
+
+",NEGATIVE,105.pdf
+"Ministry of Economy, Trade and Industry",NSA,"**National Security Agency (NSA)**:
+   - **Relation to the Japanese Government**: The NSA intercepted communications from officials in the Japanese Ministry of Economy, Trade and Industry (METI) and the Ministry of Foreign Affairs (MFA), indicating a relationship where the NSA is monitoring and analyzing Japanese governmental actions and communications.
+
+",NEGATIVE,105.pdf
+NSA,MFA,"**National Security Agency (NSA)**:
+   - **Relation to the Japanese Government**: The NSA intercepted communications from officials in the Japanese Ministry of Economy, Trade and Industry (METI) and the Ministry of Foreign Affairs (MFA), indicating a relationship where the NSA is monitoring and analyzing Japanese governmental actions and communications.
+
+",NEGATIVE,105.pdf
+MFA,National Security Agency,"**National Security Agency (NSA)**:
+   - **Relation to the Japanese Government**: The NSA intercepted communications from officials in the Japanese Ministry of Economy, Trade and Industry (METI) and the Ministry of Foreign Affairs (MFA), indicating a relationship where the NSA is monitoring and analyzing Japanese governmental actions and communications.
+
+",NEGATIVE,105.pdf
+National Security Agency,the Ministry of Foreign Affairs,"**National Security Agency (NSA)**:
+   - **Relation to the Japanese Government**: The NSA intercepted communications from officials in the Japanese Ministry of Economy, Trade and Industry (METI) and the Ministry of Foreign Affairs (MFA), indicating a relationship where the NSA is monitoring and analyzing Japanese governmental actions and communications.
+
+",NEGATIVE,105.pdf
+the Ministry of Foreign Affairs,the Japanese Government*,"**National Security Agency (NSA)**:
+   - **Relation to the Japanese Government**: The NSA intercepted communications from officials in the Japanese Ministry of Economy, Trade and Industry (METI) and the Ministry of Foreign Affairs (MFA), indicating a relationship where the NSA is monitoring and analyzing Japanese governmental actions and communications.
+
+",NEGATIVE,105.pdf
+the Japanese Government*,the Japanese,"**National Security Agency (NSA)**:
+   - **Relation to the Japanese Government**: The NSA intercepted communications from officials in the Japanese Ministry of Economy, Trade and Industry (METI) and the Ministry of Foreign Affairs (MFA), indicating a relationship where the NSA is monitoring and analyzing Japanese governmental actions and communications.
+
+",NEGATIVE,105.pdf
+Ministry of Foreign Affairs,the U.S. Government,"3. **Ministry of Foreign Affairs (MFA)**:
+   - **Relation to the U.S. Government**: The MFA expressed a cautious stance towards informing the U.S. about Japan's climate goals due to expected opposition, demonstrating a diplomatic relationship influenced by international climate negotiations.
+
+",POSITIVE,105.pdf
+the U.S. Government,MFA,"3. **Ministry of Foreign Affairs (MFA)**:
+   - **Relation to the U.S. Government**: The MFA expressed a cautious stance towards informing the U.S. about Japan's climate goals due to expected opposition, demonstrating a diplomatic relationship influenced by international climate negotiations.
+
+",POSITIVE,105.pdf
+the U.S. Government,MFA,"**Japanese Government as a Collective Entity**:
+   - **Relation to the U.S. Government**: The interactions and negotiations between the Japanese governmental bodies (METI and MFA) and the U.S. government highlight the diplomatic efforts and concerns regarding environmental initiatives.
+
+",POSITIVE,105.pdf
+UN,UNMIK,"**United Nations (UN)**: The overarching organization overseeing the regulations and procedures mentioned in the article, including the establishment of UNMIK (United Nations Interim Administration Mission in Kosovo).
+
+",POSITIVE,10.pdf
+UNMIK,United Nations Interim Administration Mission,"**United Nations (UN)**: The overarching organization overseeing the regulations and procedures mentioned in the article, including the establishment of UNMIK (United Nations Interim Administration Mission in Kosovo).
+
+",POSITIVE,10.pdf
+Finance Regulation,UNMIK Office of the Legal Adviser,"3. **Relevant Committees and Offices**:
+   - **UNMIK Finance Office**: Connected to the procurement regulations cited, including compliance with Finance Regulation 1999/2.
+   - **UNMIK Office of the Legal Adviser**: This office is implicated in the issue as the contract for the cargo apron extension was not brought for clearance to them, violating procedural requirements.
+
+",NEGATIVE,10.pdf
+the United Nations Interim Administration Mission,UN,"**United Nations (UN)**  
+   - United Nations operates the United Nations Interim Administration Mission in Kosovo (UNMIK), overseeing the investigation into procurement corruption allegations at Pristina Airport.
+
+",NEUTRAL,38.pdf
+UN,UNMIK,"**United Nations (UN)**  
+   - United Nations operates the United Nations Interim Administration Mission in Kosovo (UNMIK), overseeing the investigation into procurement corruption allegations at Pristina Airport.
+
+",NEUTRAL,38.pdf
+the United Nations,United Nations,"No 2003/16, involving interviews and inquiries into the allegations.
+
+---
+
+### Relationships Involving Organizations:
+
+1. **United Nations and UNMIK**: 
+   - UNMIK (United Nations Interim Administration Mission in Kosovo) operates under the auspices of the United Nations to manage administrative functions and uphold laws in Kosovo.
+
+",NEUTRAL,39.pdf
+United Nations,United Nations Interim Administration Mission,"No 2003/16, involving interviews and inquiries into the allegations.
+
+---
+
+### Relationships Involving Organizations:
+
+1. **United Nations and UNMIK**: 
+   - UNMIK (United Nations Interim Administration Mission in Kosovo) operates under the auspices of the United Nations to manage administrative functions and uphold laws in Kosovo.
+
+",NEUTRAL,39.pdf
+UNMIK,ITF,"3. **Investigation Task Force (ITF) and UNMIK**: 
+   - The ITF was established by UNMIK to conduct investigations, in this case regarding procurement allegations related to cleaning machines for the airport.
+
+",NEGATIVE,39.pdf
+Chartered Accountants,UNMIK,"4. **Chartered Accountants and UNMIK**: 
+   - The audit report by Chartered Accountants triggered the investigation by UNMIK into financial irregularities at Pristina International Airport.
+
+",NEGATIVE,39.pdf
+KFOR,the Public Enterprise Airport Pristina,"**Background of Pristina Airport**:
+   - Pristina International Airport is a state-owned enterprise per Yugoslavian law, managed by the Public Enterprise Airport Pristina (PEAP) along with KFOR military units.
+   ",NEUTRAL,11.pdf
+the Civil Administration Pillar,UN,"5. **Changes in Administrative Responsibility**:
+   - The management of Pristina Airport shifted from the Civil Administration Pillar (Pillar II of UNMIK) to different officials within the UN structure, reflecting changes in administration over time.
+
+### Relationships Involving Entities of Type Organization:
+
+",POSITIVE,11.pdf
+UN,UNMIK,"5. **Changes in Administrative Responsibility**:
+   - The management of Pristina Airport shifted from the Civil Administration Pillar (Pillar II of UNMIK) to different officials within the UN structure, reflecting changes in administration over time.
+
+### Relationships Involving Entities of Type Organization:
+
+",POSITIVE,11.pdf
+the United Nations,Security Council Resolution 1244,"**United Nations (UN)** and **UNMIK**:
+   - UNMIK operates under the mandate of the United Nations to administer Kosovo following Security Council Resolution 1244.
+
+",POSITIVE,11.pdf
+Security Council Resolution 1244,UN,"**United Nations (UN)** and **UNMIK**:
+   - UNMIK operates under the mandate of the United Nations to administer Kosovo following Security Council Resolution 1244.
+
+",POSITIVE,11.pdf
+UNMIK Directorate of Infrastructure Affairs**,Department of Transport and Infrastructure (DOTI,3. **UNMIK Directorate of Infrastructure Affairs** and **Department of Transport and Infrastructure (DOTI),NEUTRAL,11.pdf
+Fischer-Boel,EU,- **EU (represented by Fischer-Boel),POSITIVE,110.pdf
+the National Security Agency,NSA,"**Secret NSA Report**: The article discusses a top-secret report from the National Security Agency (NSA) analyzing Japanese government intelligence regarding carbon emissions strategies from 2008.
+
+",NEGATIVE,106.pdf
+IEA,the International Energy Agency,"2. **Japan's Commitment**: Japanese officials are committed to the ""sectoral approach"" to reducing carbon emissions despite facing criticism from the International Energy Agency (IEA) and European Union (EU) representatives.
+
+",POSITIVE,106.pdf
+the International Energy Agency,EU,"2. **Japan's Commitment**: Japanese officials are committed to the ""sectoral approach"" to reducing carbon emissions despite facing criticism from the International Energy Agency (IEA) and European Union (EU) representatives.
+
+",POSITIVE,106.pdf
+EU,European Union,"2. **Japan's Commitment**: Japanese officials are committed to the ""sectoral approach"" to reducing carbon emissions despite facing criticism from the International Energy Agency (IEA) and European Union (EU) representatives.
+
+",POSITIVE,106.pdf
+IEA,"The Ministry of Economy, Trade","**METI and IEA**: The Ministry of Economy, Trade, and Industry (METI) is represented by Masakazu Toyoda, who defends Japan's emissions strategy against criticisms from the IEA.
+
+",POSITIVE,106.pdf
+UNMIK,the Investigation Task Force,"2. **Investigation Context**: The United Nations Interim Administration Mission in Kosovo (UNMIK) and the Investigation Task Force (ITF) are involved in investigating the allegations, which have led to judicial inquiries.
+
+",POSITIVE,13.pdf
+the Investigation Task Force,The United Nations Interim Administration Mission,"2. **Investigation Context**: The United Nations Interim Administration Mission in Kosovo (UNMIK) and the Investigation Task Force (ITF) are involved in investigating the allegations, which have led to judicial inquiries.
+
+",POSITIVE,13.pdf
+Investigation Task Force,UN,"**United Nations (UN)**: 
+   - Involved in the oversight and administration of Kosovo and has established UNMIK to manage post-conflict administration and investigations.
+   - The UN's Investigation Task Force (ITF) is directly investigating the allegations of corruption at Pristina Airport.
+
+",POSITIVE,13.pdf
+UN,UNMIK,"**United Nations (UN)**: 
+   - Involved in the oversight and administration of Kosovo and has established UNMIK to manage post-conflict administration and investigations.
+   - The UN's Investigation Task Force (ITF) is directly investigating the allegations of corruption at Pristina Airport.
+
+",POSITIVE,13.pdf
+KPS,Kosovo Police Service,"2. **Kosovo Police Service (KPS)**: 
+   - The allegations originated from a report written by a KPS officer, indicating involvement in the alleged corrupt practices at the airport.
+  
+",NEGATIVE,13.pdf
+Kosovo Department,ITF,"**Kosovo Department of Justice**:
+   - The case was referred to this department, indicating a formal judicial investigation into the allegations and thus highlighting the relationship between the ITF and judicial bodies in Kosovo.
+
+",POSITIVE,13.pdf
+MEM,U.S. Position,"2. **U.S. Position and Heiligendamm Agreement**: Germany is concerned about whether the U.S. will agree to extend previous language from the Heiligendamm G-8 summit if emerging countries do not accept numerical targets at the Major Economies Meeting (MEM).
+
+",NEGATIVE,113.pdf
+U.S. Position,the Major Economies Meeting,"2. **U.S. Position and Heiligendamm Agreement**: Germany is concerned about whether the U.S. will agree to extend previous language from the Heiligendamm G-8 summit if emerging countries do not accept numerical targets at the Major Economies Meeting (MEM).
+
+",NEGATIVE,113.pdf
+National Security Agency,the Summary Services Office of the NSA,"7. **Date and Author**: The report is dated February 20, 2008, and was summarized by the Summary Services Office of the NSA.
+
+### Relationships Involving Entities of Type Organization:
+
+- **National Security Agency (NSA)**: Central organization of the report, responsible for intelligence gathering and reporting on the Japanese government’s climate change initiatives.
+
+-",NEGATIVE,107.pdf
+Insurance Company 1,Insurance Company 2,"3. **Double Insurance Coverage**: Evidence was found indicating that Pristina International Airport had duplicate insurance coverage due to a contract renewal with Insurance Company 1 while also securing a new insurance package with Insurance Company 2 at the request of UNMIK.
+
+",NEGATIVE,36.pdf
+Insurance Company 2,UNMIK,"3. **Double Insurance Coverage**: Evidence was found indicating that Pristina International Airport had duplicate insurance coverage due to a contract renewal with Insurance Company 1 while also securing a new insurance package with Insurance Company 2 at the request of UNMIK.
+
+",NEGATIVE,36.pdf
+United Nations Interim Administration Mission,the Department of Justice,"5. **Preliminary Findings**: ITF investigators believe there is a prima facie case against the Manager for potential offenses related to the misappropriation of public funds and have recommended forwarding the case to the Department of Justice for further review and potential judicial action.
+
+### Relationships Involving Organizations:
+
+1. **UNMIK (United Nations Interim Administration Mission in Kosovo)",NEUTRAL,36.pdf
+the Office of Internal Oversight Services,OIOS,"**Nature of Investigation**: The report discusses a case of cheque fraud investigated by the Office of Internal Oversight Services (OIOS) from October 2003 to March 2005, prompted by a report from the United Nations Office in Nairobi (UNON).
+
+",NEGATIVE,21.pdf
+OIOS,the United Nations Office,"**Nature of Investigation**: The report discusses a case of cheque fraud investigated by the Office of Internal Oversight Services (OIOS) from October 2003 to March 2005, prompted by a report from the United Nations Office in Nairobi (UNON).
+
+",NEGATIVE,21.pdf
+UNDP,The United Nations Development Programme,"**Incident Details**: The United Nations Development Programme (UNDP) in Bratislava, Slovakia, made payments totaling $10,079 to an individual based on falsified documents.
+
+",NEGATIVE,21.pdf
+the Slovakian Criminal Code,United Nations Staff Rules,"5. **Legal Framework**: The document outlines relevant laws and regulations regarding staff conduct and fraud, including United Nations Staff Rules and the Slovakian Criminal Code.
+
+",POSITIVE,21.pdf
+UNON Finance,UNDP Bratislava,"**Financial Reconciliation Issues**: The investigation was initiated after UNON Finance noted discrepancies while reconciling accounts with UNDP Bratislava, specifically regarding missing documentation for past cash disbursements.
+
+",NEGATIVE,21.pdf
+UNDP,UN,"**United Nations (UN) and UNODC**: The UN is the overarching body that includes various organizations like the UNDP and UNON, which have specific operational functions.
+
+",POSITIVE,21.pdf
+UN,UNON,"**United Nations (UN) and UNODC**: The UN is the overarching body that includes various organizations like the UNDP and UNON, which have specific operational functions.
+
+",POSITIVE,21.pdf
+UNON,UNDP Bratislava,"2. **UNDP and UNON**: UNDP Bratislava received reports and documentation requests from UNON, indicating a direct operational relationship in managing financial disbursements and reconciling accounts.
+
+",NEGATIVE,21.pdf
+UN Headquarters,UNHQ,"3. **UNDP and UN Headquarters (UNHQ)**: The UNDP is responsible for providing administrative services and must communicate and report financial activities back to UNHQ in New York.
+
+",NEGATIVE,21.pdf
+UNHQ,UNDP,"3. **UNDP and UN Headquarters (UNHQ)**: The UNDP is responsible for providing administrative services and must communicate and report financial activities back to UNHQ in New York.
+
+",NEGATIVE,21.pdf
+UNDP,the Slovakian Criminal Code,"4. **UNDP and Slovakia**: The fraud case involves the UNDP office in Slovakia, which is subject to the laws and regulations of the Slovakian Criminal Code, showing interaction between international organizations and national legal frameworks.
+
+",NEUTRAL,21.pdf
+the Slovakian Criminal Code,Slovakia,"4. **UNDP and Slovakia**: The fraud case involves the UNDP office in Slovakia, which is subject to the laws and regulations of the Slovakian Criminal Code, showing interaction between international organizations and national legal frameworks.
+
+",NEUTRAL,21.pdf
+UNDP,UNODC,"5. **UN Staff Regulations and UN Organizations**: The adherence to staff regulations outlined not only affects individuals but also serves to uphold the integrity of all affiliated organizations, including UNODC, UNDP, and UNON.
+
+",POSITIVE,21.pdf
+UNODC,UN,"5. **UN Staff Regulations and UN Organizations**: The adherence to staff regulations outlined not only affects individuals but also serves to uphold the integrity of all affiliated organizations, including UNODC, UNDP, and UNON.
+
+",POSITIVE,21.pdf
+UN,UNON,"5. **UN Staff Regulations and UN Organizations**: The adherence to staff regulations outlined not only affects individuals but also serves to uphold the integrity of all affiliated organizations, including UNODC, UNDP, and UNON.
+
+",POSITIVE,21.pdf
+UNDP,UN,"By analyzing these relationships, one can see how fraud at the UNDP Bratislava affected interconnected UN agencies and highlighted the need for stronger oversight and compliance mechanisms within the organization.",POSITIVE,21.pdf
+UNMUK,The Investigation Task Force,"**Allegations of Procurement Violations**: The Investigation Task Force (ITF) received information regarding potential violations of UNMUK's procurement procedures related to insurance for Pristina Airport starting April 1, 2004.
+
+",NEGATIVE,35.pdf
+the Icelandic Civil Aviation Administration,UNMIK,"2. **Agreement Between UNMIK and ICAA**: An agreement was established between UNMIK and the Icelandic Civil Aviation Administration (ICAA) to assist in obtaining insurance coverage for Pristina Airport.
+
+",POSITIVE,35.pdf
+UNMIK,ICAA,"**Lack of Information on New Policy**: Staff at Pristina Airport were uncertain if the ICAA had to comply with UNMIK procurement protocols due to a lack of detailed documentation regarding the new insurance policy.
+
+",NEGATIVE,35.pdf
+The Kosovo Trust Agency,UNMUK,"2. **UNMUK and KTA**: The Kosovo Trust Agency (KTA) is involved in the oversight and auditing of procurement processes, indicating a relationship where KTA monitors compliance with procurement rules set by UNMUK.
+
+",POSITIVE,35.pdf
+UNMUK,KTA,"2. **UNMUK and KTA**: The Kosovo Trust Agency (KTA) is involved in the oversight and auditing of procurement processes, indicating a relationship where KTA monitors compliance with procurement rules set by UNMUK.
+
+",POSITIVE,35.pdf
+United Nations,The Investigation Task Force,"4. **ITF and Other Organizations**: The Investigation Task Force (ITF) is operating under the United Nations framework to investigate these allegations, linking it to UN entities such as DPKO (Department of Peacekeeping Operations).
+
+",NEGATIVE,35.pdf
+The Investigation Task Force,DPKO,"4. **ITF and Other Organizations**: The Investigation Task Force (ITF) is operating under the United Nations framework to investigate these allegations, linking it to UN entities such as DPKO (Department of Peacekeeping Operations).
+
+",NEGATIVE,35.pdf
+DPKO,Department of Peacekeeping Operations,"4. **ITF and Other Organizations**: The Investigation Task Force (ITF) is operating under the United Nations framework to investigate these allegations, linking it to UN entities such as DPKO (Department of Peacekeeping Operations).
+
+",NEGATIVE,35.pdf
+Department of Peacekeeping Operations,UN,"4. **ITF and Other Organizations**: The Investigation Task Force (ITF) is operating under the United Nations framework to investigate these allegations, linking it to UN entities such as DPKO (Department of Peacekeeping Operations).
+
+",NEGATIVE,35.pdf
+ICAA,UNMIK,"5. **ITF Findings and ICAA**: The ITF's findings concluded that the ICAA was not bound by UNMIK procurement rules, emphasizing the independence of the agreement between the ICAA and UNMIK.
+
+",NEGATIVE,35.pdf
+UNMIK,ITF,"5. **ITF Findings and ICAA**: The ITF's findings concluded that the ICAA was not bound by UNMIK procurement rules, emphasizing the independence of the agreement between the ICAA and UNMIK.
+
+",NEGATIVE,35.pdf
+the National Security Agency,NSA,"**NSA Report**: The article discusses a 2009 report from the National Security Agency (NSA) that involved intelligence intercepts concerning the Japanese response to U.S. cherry imports.
+
+",NEGATIVE,108.pdf
+the Department of Agriculture,NSA,"**General Relationship**:
+   - The NSA serves as an intelligence gatherer that affects diplomatic relations between the Japanese government (specifically MAFF) and the U.S. government (led by the Department of Agriculture) regarding trade issues. 
+
+",POSITIVE,108.pdf
+UNMIK’s Civil Administration,the Kosovo Force,"5. **Operational Information**: Details about Pristina International Airport's administration, which was initially managed under UNMIK’s Civil Administration and involved cooperation with the Kosovo Force (KFOR). 
+
+",POSITIVE,31.pdf
+United Nations Interim Administration Mission,UNMIK,"**Structural Changes**: It notes changes in management and governance responsibilities, particularly the shift within UNMIK regarding the airport's administration following the departure of key officials.
+
+### Relationships Involving Entities of Type Organization
+
+- **United Nations (UN)**:
+  - Established the **UNMIK** (United Nations Interim Administration Mission in Kosovo) to administer Kosovo, including oversight of state-owned enterprises like Pristina International Airport.
+
+- **UNMIK**:
+  - Regulates operations through specific regulations (e.g., UNMIK Regulation 1999/24) that govern conduct and operations in Kosovo.
+  - Collaborates with the **Pillar IV** organization, which includes military components like **KFOR** (Kosovo Force) for operational support.
+
+-",POSITIVE,31.pdf
+UNMIK,Kosovo Force,"**Structural Changes**: It notes changes in management and governance responsibilities, particularly the shift within UNMIK regarding the airport's administration following the departure of key officials.
+
+### Relationships Involving Entities of Type Organization
+
+- **United Nations (UN)**:
+  - Established the **UNMIK** (United Nations Interim Administration Mission in Kosovo) to administer Kosovo, including oversight of state-owned enterprises like Pristina International Airport.
+
+- **UNMIK**:
+  - Regulates operations through specific regulations (e.g., UNMIK Regulation 1999/24) that govern conduct and operations in Kosovo.
+  - Collaborates with the **Pillar IV** organization, which includes military components like **KFOR** (Kosovo Force) for operational support.
+
+-",POSITIVE,31.pdf
+Kosovo Force,UNMIK Regulation,"**Structural Changes**: It notes changes in management and governance responsibilities, particularly the shift within UNMIK regarding the airport's administration following the departure of key officials.
+
+### Relationships Involving Entities of Type Organization
+
+- **United Nations (UN)**:
+  - Established the **UNMIK** (United Nations Interim Administration Mission in Kosovo) to administer Kosovo, including oversight of state-owned enterprises like Pristina International Airport.
+
+- **UNMIK**:
+  - Regulates operations through specific regulations (e.g., UNMIK Regulation 1999/24) that govern conduct and operations in Kosovo.
+  - Collaborates with the **Pillar IV** organization, which includes military components like **KFOR** (Kosovo Force) for operational support.
+
+-",POSITIVE,31.pdf
+UNMIK Regulation,UN,"**Structural Changes**: It notes changes in management and governance responsibilities, particularly the shift within UNMIK regarding the airport's administration following the departure of key officials.
+
+### Relationships Involving Entities of Type Organization
+
+- **United Nations (UN)**:
+  - Established the **UNMIK** (United Nations Interim Administration Mission in Kosovo) to administer Kosovo, including oversight of state-owned enterprises like Pristina International Airport.
+
+- **UNMIK**:
+  - Regulates operations through specific regulations (e.g., UNMIK Regulation 1999/24) that govern conduct and operations in Kosovo.
+  - Collaborates with the **Pillar IV** organization, which includes military components like **KFOR** (Kosovo Force) for operational support.
+
+-",POSITIVE,31.pdf
+the Pristina International Airport,the Transport Sector of the UNMIK Directorate of Infrastructure Affairs,"- **Department of Transport and Infrastructure (DOTI)**:
+  - A division initially supervising the Pristina International Airport under UNMIK that later transformed into the Transport Sector of the UNMIK Directorate of Infrastructure Affairs, denoting organizational restructuring.
+
+",NEGATIVE,31.pdf
+the Transport Sector of the UNMIK Directorate of Infrastructure Affairs,Department of Transport and Infrastructure (DOTI,"- **Department of Transport and Infrastructure (DOTI)**:
+  - A division initially supervising the Pristina International Airport under UNMIK that later transformed into the Transport Sector of the UNMIK Directorate of Infrastructure Affairs, denoting organizational restructuring.
+
+",NEGATIVE,31.pdf
+Department of Transport and Infrastructure (DOTI,UNMIK,"- **Department of Transport and Infrastructure (DOTI)**:
+  - A division initially supervising the Pristina International Airport under UNMIK that later transformed into the Transport Sector of the UNMIK Directorate of Infrastructure Affairs, denoting organizational restructuring.
+
+",NEGATIVE,31.pdf
+the Economic Commission for Africa,ECA,"**Investigation Trigger**: The Office of Internal Oversight Services (OIOS) investigated allegations of wrongdoing related to the Economic Commission for Africa (ECA) after emails were sent by a staff member to external parties, including U.S. government officials.
+
+",NEGATIVE,24.pdf
+ECA,The Office of Internal Oversight Services,"**Investigation Trigger**: The Office of Internal Oversight Services (OIOS) investigated allegations of wrongdoing related to the Economic Commission for Africa (ECA) after emails were sent by a staff member to external parties, including U.S. government officials.
+
+",NEGATIVE,24.pdf
+The Office of Internal Oversight Services,OIOS,"**Investigation Trigger**: The Office of Internal Oversight Services (OIOS) investigated allegations of wrongdoing related to the Economic Commission for Africa (ECA) after emails were sent by a staff member to external parties, including U.S. government officials.
+
+",NEGATIVE,24.pdf
+UN,ECA,"**United Nations (UN)**:
+   - The UN is the overarching organization governing the rules and regulations that staff members, including those at the ECA, must follow.
+   -",POSITIVE,24.pdf
+UN,OIOS,"The OIOS operates under the mandate of the UN to conduct investigations.
+
+",NEUTRAL,24.pdf
+UN,ECA,"2. **Economic Commission for Africa (ECA)**:
+   - The ECA is a regional organization under the UN umbrella implicated in the investigation concerning alleged misconduct by its senior officials.
+
+",NEGATIVE,24.pdf
+U.S. Government,ECA,"3. **U.S. Government Officials**:
+   - Specific entities within the U.S. government, such as Ambassador John Negroponte and U.S. Senators John Kerry and Dodd, were recipients of the emails, indicating a direct line of communication from an ECA staff member to external government organizations.
+
+",NEGATIVE,24.pdf
+UN,OIOS,"**Office of Internal Oversight Services (OIOS)**:
+   - The OIOS is the investigative body within the UN responsible for examining the allegations brought forth related to internal misconduct and regulation breaches.
+
+",NEUTRAL,24.pdf
+UN,ECA,"These relationships illustrate the interconnectedness of the UN, particularly the ECA, with external governmental bodies and the internal oversight mechanisms established to maintain organizational integrity.",POSITIVE,24.pdf
+the Economic Commission for Africa,ECA,"the Economic Commission for Africa (ECA).
+
+",POSITIVE,26.pdf
+an Economic Commission of Africa,ECA,"A complaint was received alleging the misappropriation of US$12,000 in Daily Subsistence Allowance (DSA) by an Economic Commission of Africa (ECA) staff member.
+",NEGATIVE,26.pdf
+UN,ECA,"The ECA is the primary organization involved in the allegation of fund misappropriation, with its staff member accused of not following financial protocols as outlined by the ID/OIOS, which is responsible for oversight and investigation within the UN system.",NEGATIVE,26.pdf
+the Investigations Division of the Office of Internal Oversight Services,the United Nations Environment Programme,"*Introduction of Allegations**:
+   - Allegations of misconduct in the Post-Conflict Assessment Unit (PCAU) of the United Nations Environment Programme (UNEP) were reported to the Investigations Division of the Office of Internal Oversight Services (ID/OIOS).
+
+",NEGATIVE,27.pdf
+the United Nations Environment Programme,the Post-Conflict Assessment Unit,"*Introduction of Allegations**:
+   - Allegations of misconduct in the Post-Conflict Assessment Unit (PCAU) of the United Nations Environment Programme (UNEP) were reported to the Investigations Division of the Office of Internal Oversight Services (ID/OIOS).
+
+",NEGATIVE,27.pdf
+the Post-Conflict Assessment Unit,UNEP,"*Introduction of Allegations**:
+   - Allegations of misconduct in the Post-Conflict Assessment Unit (PCAU) of the United Nations Environment Programme (UNEP) were reported to the Investigations Division of the Office of Internal Oversight Services (ID/OIOS).
+
+",NEGATIVE,27.pdf
+United Nations,UNEP,"*Details on Allegations**:
+   - Allegation 1: No established conflict of interest despite appearances.
+   - Allegation 2: Evidence did not support the allegation against UNEP Staff Member 1.
+   - Allegation 3: High-level contracts justified by performance, but qualifications were lacking.
+   - Allegation 4: Substantiated, with an admission of breach of United Nations rules.
+
+",NEGATIVE,27.pdf
+the Office of Internal Oversight Services,the United Nations Environment Programme,"**United Nations**:
+   - Parent organization of the United Nations Environment Programme (UNEP) and the Office of Internal Oversight Services (ID/OIOS).
+
+",POSITIVE,27.pdf
+the United Nations Environment Programme,UNEP,"**United Nations**:
+   - Parent organization of the United Nations Environment Programme (UNEP) and the Office of Internal Oversight Services (ID/OIOS).
+
+",POSITIVE,27.pdf
+United Nations Environment Programme,PCAU,"2. **United Nations Environment Programme (UNEP)**:
+   - The organization where the allegations of misconduct occurred, specifically in the PCAU and involving staff and consultants.
+
+",NEGATIVE,27.pdf
+PCAU,UNEP,"2. **United Nations Environment Programme (UNEP)**:
+   - The organization where the allegations of misconduct occurred, specifically in the PCAU and involving staff and consultants.
+
+",NEGATIVE,27.pdf
+BTF,Balkans Task Force,"3. **Balkans Task Force (BTF)**:
+   - A task force involved in the allegations, associated with UNEP and within the context of the reported misconduct.
+
+",NEUTRAL,27.pdf
+Balkans Task Force,UNEP,"3. **Balkans Task Force (BTF)**:
+   - A task force involved in the allegations, associated with UNEP and within the context of the reported misconduct.
+
+",NEUTRAL,27.pdf
+the Investigations Division of the Office of Internal Oversight Services,UN,"**Request for Investigation**: On February 13, 2005, the Investigations Division of the Office of Internal Oversight Services (ID/OIOS) received a request to investigate allegations against locally recruited staff at the United Nations Office at Nairobi (UNON) for submitting fraudulent appointment letters to secure loans from the UN-SACCO.
+
+",NEGATIVE,69.pdf
+UN,the United Nations Office,"**Request for Investigation**: On February 13, 2005, the Investigations Division of the Office of Internal Oversight Services (ID/OIOS) received a request to investigate allegations against locally recruited staff at the United Nations Office at Nairobi (UNON) for submitting fraudulent appointment letters to secure loans from the UN-SACCO.
+
+",NEGATIVE,69.pdf
+United Nations,UNICEF/Somalia,"2. **Previous Reports**: Concerns stemmed from an earlier report concerning fraudulent loan practices by locally recruited staff members associated with UNICEF/Somalia, raising fears that similar actions might have infiltrated UNON and other United Nations agencies in Nairobi.
+
+",NEGATIVE,69.pdf
+United Nations,UN,"5. **UN-SACCO Overview**: UN-SACCO was established in 1975 to provide a savings and loan facility for United Nations staff in Kenya, operates with a capital of $13.5 million, and has around 2,500 members who can obtain loans based on their shares after a minimum membership period.
+
+",NEGATIVE,69.pdf
+Credit Committee,UN,"The approval process involves a review by UN-SACCO staff and a Credit Committee.
+
+### Relationships Involving Entities of Type Organization:
+
+1. **UNON and UN-SACCO**: 
+   - UNON staff members submit loan applications to UN-SACCO.
+   - UN-SACCO operates within UNON premises, indicating a close operational relationship.
+
+",NEUTRAL,69.pdf
+United Nations,UNON,"2. **UNICEF/Somalia and UNON**: 
+   - Allegations from UNICEF/Somalia about fraudulent activities prompted investigations at UNON, suggesting a network among United Nations agencies regarding shared concerns about improper conduct.
+
+",NEGATIVE,69.pdf
+UNON,UNICEF/Somalia,"2. **UNICEF/Somalia and UNON**: 
+   - Allegations from UNICEF/Somalia about fraudulent activities prompted investigations at UNON, suggesting a network among United Nations agencies regarding shared concerns about improper conduct.
+
+",NEGATIVE,69.pdf
+United Nations,UN,"4. **UN-SACCO and UN Staff**: 
+   - UN-SACCO serves as a financial service provider to UN staff, facilitating loans and savings, establishing a foundational financial support organization for United Nations employees. 
+
+",POSITIVE,69.pdf
+UN Headquarters,the United Nations Office of Internal Oversight Services,"**Overview of the Report**: The article discusses a confidential report from the United Nations Office of Internal Oversight Services (OIOS) concerning Mr. Walter Cabrera, a procurement officer at UN Headquarters.
+
+",POSITIVE,82.pdf
+the Independent Inquiry Committee,The Procurement Task Force,"2. **Creation of the Procurement Task Force**: The Procurement Task Force was established on January 12, 2006, due to concerns raised by the Independent Inquiry Committee regarding procurement issues, specifically following the Oil for Food Programme scandal and issues surrounding another procurement officer, Alexander Yakovlev.
+
+",NEGATIVE,82.pdf
+The Procurement Task Force,the Oil for Food Programme,"2. **Creation of the Procurement Task Force**: The Procurement Task Force was established on January 12, 2006, due to concerns raised by the Independent Inquiry Committee regarding procurement issues, specifically following the Oil for Food Programme scandal and issues surrounding another procurement officer, Alexander Yakovlev.
+
+",NEGATIVE,82.pdf
+The Task Force,UN,"3. **Mandate and Operations of the Task Force**: The Task Force operates under OIOS, investigating all procurement-related matters involving UN staff and vendors.",POSITIVE,82.pdf
+UN,OIOS,"3. **Mandate and Operations of the Task Force**: The Task Force operates under OIOS, investigating all procurement-related matters involving UN staff and vendors.",POSITIVE,82.pdf
+the Procurement Task Force,UN,"**Focus of the Investigation**: The report specifically examines Cabrera's actions concerning the alleged misconduct, determining whether he acted improperly in his procurement duties.
+
+### Relationships Involving Entities of Type Organization
+
+- **United Nations (UN)**: The primary organization involved in the report, overseeing procurement operations and the investigation conducted by the OIOS.
+  
+- **Office of Internal Oversight Services (OIOS)**: A UN body focused on auditing and oversight, responsible for the establishment of the Procurement Task Force and the investigation of procurement matters.
+ 
+-",POSITIVE,82.pdf
+UN,OIOS,"**Focus of the Investigation**: The report specifically examines Cabrera's actions concerning the alleged misconduct, determining whether he acted improperly in his procurement duties.
+
+### Relationships Involving Entities of Type Organization
+
+- **United Nations (UN)**: The primary organization involved in the report, overseeing procurement operations and the investigation conducted by the OIOS.
+  
+- **Office of Internal Oversight Services (OIOS)**: A UN body focused on auditing and oversight, responsible for the establishment of the Procurement Task Force and the investigation of procurement matters.
+ 
+-",POSITIVE,82.pdf
+UN,OIOS,"**Procurement Task Force**: An internal body created by the UN under the OIOS to address procurement issues, including multiple procurement cases related to both individual staff members (like Cabrera) and external vendors.
+  
+",NEUTRAL,82.pdf
+UNMIK,ITF,"**Investigation Task Force (ITF)**:
+   - Tasked with the investigation following UNMIK's regulations, the ITF represents the operational arm within the UNMIK structure.
+
+
+",POSITIVE,5.pdf
+Direct Single Source Procurement,UN,"3. **Applicable Territorial Laws and UN Rules**: 
+   - UNMIK Regulation 1999/24 establishes applicable laws in Kosovo.
+   - UN Staff Regulations require high standards of efficiency and integrity.
+   - UNMIK Finance Administrative Instructions emphasize fair and equal treatment in procurement processes and specify methods for procurement based on contract value.
+   - Guidelines on Direct Single Source Procurement to prevent avoiding competition and discrimination.
+
+### Relationships Involving Entities of Type Organization
+
+- **United Nations (UN)**: The overarching organization responsible for the administration in Kosovo.",POSITIVE,4.pdf
+UNMIK Regulation,UN,"It regulates processes and sets standards for conduct among its member entities.
+
+- **United Nations Interim Administration Mission in Kosovo (UNMIK)**: Sub-organization under the UN that oversees the administrative functions in Kosovo, including public procurement.
+
+- **Pristina International Airport**: The entity undergoing scrutiny due to alleged corruption and irregularities related to its procurement processes, which falls under UNMIK’s jurisdiction.
+
+- **Special Representative of the Secretary General (SRSG)**: A role within UN that has regulatory authority established by UNMIK Regulation 1999/24.
+
+",NEGATIVE,4.pdf
+UN,UNMIK,"It regulates processes and sets standards for conduct among its member entities.
+
+- **United Nations Interim Administration Mission in Kosovo (UNMIK)**: Sub-organization under the UN that oversees the administrative functions in Kosovo, including public procurement.
+
+- **Pristina International Airport**: The entity undergoing scrutiny due to alleged corruption and irregularities related to its procurement processes, which falls under UNMIK’s jurisdiction.
+
+- **Special Representative of the Secretary General (SRSG)**: A role within UN that has regulatory authority established by UNMIK Regulation 1999/24.
+
+",NEGATIVE,4.pdf
+OFF,the Iraq Survey Group,"2. **Ambassador's Frustration**: Levitte expressed frustration about a report from the Iraq Survey Group that indicated potential misuse of the OFF program by French companies, while no U.S. firms were mentioned.
+
+",NEGATIVE,91.pdf
+United Nations,UN,"4. **UN (United Nations)** - The UN Oil-for-Food program is central to the context, indicating the organization’s involvement in humanitarian efforts during the Iraq war and the implications of alleged misuse.
+
+",POSITIVE,91.pdf
+UNMIK Bank Account,the Public Enterprise Airport Pristina,"The Investigation Task Force (ITF) Kosovo investigated allegations concerning a specific UNMIK Bank Account following a forensic audit of the Public Enterprise Airport Pristina (PEAP).
+
+",NEGATIVE,52.pdf
+the Public Enterprise Airport Pristina,The Investigation Task Force,"The Investigation Task Force (ITF) Kosovo investigated allegations concerning a specific UNMIK Bank Account following a forensic audit of the Public Enterprise Airport Pristina (PEAP).
+
+",NEGATIVE,52.pdf
+The Kosovo Trust Agency,the European Union,"The Kosovo Trust Agency (KTA) and UNMIK Pillar IV, administered by the European Union, oversee the operations at Pristina Airport.",POSITIVE,52.pdf
+the European Union,UNMIK Pillar IV,"The Kosovo Trust Agency (KTA) and UNMIK Pillar IV, administered by the European Union, oversee the operations at Pristina Airport.",POSITIVE,52.pdf
+UNMIK,ITF,"The ITF's purview includes investigating fraud and corruption allegations involving UNMIK and associated organizations.
+
+",POSITIVE,52.pdf
+United Nations Security Council,UN,"**United Nations (UN):** 
+   - Has oversight and administrative authority through the UNMIK, which regulates activities in Kosovo according to relevant United Nations Security Council resolutions.
+
+",POSITIVE,52.pdf
+UN,UNMIK,"**United Nations (UN):** 
+   - Has oversight and administrative authority through the UNMIK, which regulates activities in Kosovo according to relevant United Nations Security Council resolutions.
+
+",POSITIVE,52.pdf
+United Nations Interim Administration Mission,UNMIK,"2. **United Nations Interim Administration Mission in Kosovo (UNMIK):**
+   - Involved in the management of the bank account and oversight of financial transactions related to the airport.
+
+",NEUTRAL,52.pdf
+EU,European Union,"**European Union (EU):**
+   - Administers UNMIK Pillar IV, reflecting a relationship where the EU provides governance and support to UNMIK's efforts in Kosovo.
+
+",POSITIVE,52.pdf
+European Union,UNMIK,"**European Union (EU):**
+   - Administers UNMIK Pillar IV, reflecting a relationship where the EU provides governance and support to UNMIK's efforts in Kosovo.
+
+",POSITIVE,52.pdf
+United Nations Interim Administration Mission,ITF,"1. **United Nations Interim Administration Mission in Kosovo (UNMIK)**: Interacts with multiple organizations such as the ITF and CIVPOL and oversees immigration procedures for the airline operations.
+
+",POSITIVE,47.pdf
+Kosovo Organised Crime Bureau,KOCB,**Kosovo Organised Crime Bureau (KOCB),NEUTRAL,1.pdf
+the Kosovo Trust Agency,the United Nations Interim Administration Mission,"1. **Background and Context**: The article discusses a case involving the United Nations Interim Administration Mission in Kosovo (UNMIK) and the Kosovo Trust Agency (KTA) regarding an X-ray equipment tender for Pristina Airport.
+
+",POSITIVE,45.pdf
+the United Nations Interim Administration Mission,UNMIK,"1. **Background and Context**: The article discusses a case involving the United Nations Interim Administration Mission in Kosovo (UNMIK) and the Kosovo Trust Agency (KTA) regarding an X-ray equipment tender for Pristina Airport.
+
+",POSITIVE,45.pdf
+Capital Expenditure,KTA,"2. **Allegation of Administrative Irregularity**: It highlights an allegation that the Divisional Manager of KTA signed a contract with a vendor for X-ray equipment before the formal approval for Capital Expenditure was granted by KTA.
+
+",NEGATIVE,45.pdf
+KTA,Divisional,"2. **Allegation of Administrative Irregularity**: It highlights an allegation that the Divisional Manager of KTA signed a contract with a vendor for X-ray equipment before the formal approval for Capital Expenditure was granted by KTA.
+
+",NEGATIVE,45.pdf
+KTA,Capital Expenditure,"6. **Conclusion**: It was concluded that the signing of the contract before the Capital Expenditure approval was a minor administrative irregularity, with no financial loss to Pristina Airport or KTA detected.
+
+",POSITIVE,45.pdf
+UN,UNMIK,"Entities of type Organization involved in the article and their relationships include:
+
+- **United Nations (UN)**: Oversees the UNMIK mission in Kosovo for administration and governance.
+- **UNMIK (United Nations Interim Administration Mission in Kosovo)",POSITIVE,45.pdf
+UNMIK,United Nations Interim Administration Mission,"Entities of type Organization involved in the article and their relationships include:
+
+- **United Nations (UN)**: Oversees the UNMIK mission in Kosovo for administration and governance.
+- **UNMIK (United Nations Interim Administration Mission in Kosovo)",POSITIVE,45.pdf
+UN,UNMIK,"**Relationships**:
+1. UN oversees and administers the operations of UNMIK.
+",NEUTRAL,45.pdf
+UNMIK,KTA,"KTA operates under the authority of UNMIK and is responsible for procurement.
+",NEGATIVE,45.pdf
+Vendor,KTA,"Pristina Airport negotiated and concluded contracts with the Vendor under KTA's oversight.
+",NEUTRAL,45.pdf
+the Cargo Department,The Investigation Task Force,"**Allegation Summary**: The Investigation Task Force (ITF) received a report of fraud involving the Cargo Department at Pristina Airport, where an official improperly sought and received €8,000 for importation and storage of goods that was not recorded.
+
+",NEGATIVE,51.pdf
+UNMIK,the Department of Justice,"**Investigation Findings**: Preliminary investigation suggested prima facie evidence of a crime, leading to the case being referred to the Department of Justice, UNMIK.
+
+",NEGATIVE,51.pdf
+UN,United Nations Interim Administration Mission,**United Nations (UN)** and **UNMIK (United Nations Interim Administration Mission in Kosovo),NEUTRAL,51.pdf
+the United Nations,UNMIK,"**:
+   - UNMIK operates under the auspices of the United Nations, indicating a relationship where UNMIK conducts tasks related to the administration of Kosovo as mandated by the UN.
+
+",POSITIVE,51.pdf
+UNMIK,UN,"**:
+   - UNMIK operates under the auspices of the United Nations, indicating a relationship where UNMIK conducts tasks related to the administration of Kosovo as mandated by the UN.
+
+",POSITIVE,51.pdf
+UNMIK’s,Airport Pristina,"**Airport Pristina** (Kosovo Publicly Owned Enterprise):
+   - Involved parties communicate in the context of UNMIK’s judicial authority and oversight, highlighting a relationship where Airport Pristina is under investigation by UNMIK officials for procedural and financial discrepancies.
+
+",POSITIVE,51.pdf
+Airport Pristina,UNMIK,"**Airport Pristina** (Kosovo Publicly Owned Enterprise):
+   - Involved parties communicate in the context of UNMIK’s judicial authority and oversight, highlighting a relationship where Airport Pristina is under investigation by UNMIK officials for procedural and financial discrepancies.
+
+",POSITIVE,51.pdf
+Air Traffic Control Services,The Investigation Task Force,**Investigation Overview**: The Investigation Task Force (ITF) Kosovo investigated frequent cash withdrawals from the bank account of Air Traffic Control Services (ATCS) associated with Prishtina International Airport.,NEGATIVE,2.pdf
+United Nations Interim Administration Mission,UNMIK,2. **Background Context**: The activities of Prishtina Airport fall under the Kosovo Trust Agency's control and UNMIK (United Nations Interim Administration Mission in Kosovo),NEGATIVE,2.pdf
+UNMIK,the Kosovo Trust Agency's,2. **Background Context**: The activities of Prishtina Airport fall under the Kosovo Trust Agency's control and UNMIK (United Nations Interim Administration Mission in Kosovo),NEGATIVE,2.pdf
+Pillar,the European Union,"Pillar IV, which is administered by the European Union.
+
+",POSITIVE,2.pdf
+PISG,the Provisional Institutions of Self-Government,"3. **Scope of Investigation**: The ITF has the authority to investigate allegations of fraud and corruption involving UNMIK, its pillars, and other related organizational structures, including the Provisional Institutions of Self-Government (PISG).
+
+",POSITIVE,2.pdf
+the Provisional Institutions of Self-Government,UNMIK,"3. **Scope of Investigation**: The ITF has the authority to investigate allegations of fraud and corruption involving UNMIK, its pillars, and other related organizational structures, including the Provisional Institutions of Self-Government (PISG).
+
+",POSITIVE,2.pdf
+UNMIK,ITF,"3. **Scope of Investigation**: The ITF has the authority to investigate allegations of fraud and corruption involving UNMIK, its pillars, and other related organizational structures, including the Provisional Institutions of Self-Government (PISG).
+
+",POSITIVE,2.pdf
+Investigation Task Force,UNMIK,"**United Nations**: Plays a central role in overseeing Kosovo through UNMIK, which includes the ITF and its Investigation Task Force into financial irregularities.
+
+",POSITIVE,2.pdf
+UNMIK,ITF,"**United Nations**: Plays a central role in overseeing Kosovo through UNMIK, which includes the ITF and its Investigation Task Force into financial irregularities.
+
+",POSITIVE,2.pdf
+ATCS,the Prishtina International Airport,"2. **European Union**: Administers and oversees aspects of UNMIK Pillar IV, which relates to the administration of the Prishtina International Airport and oversight of relevant agencies such as ATCS.
+
+",POSITIVE,2.pdf
+the Prishtina International Airport,UNMIK Pillar IV,"2. **European Union**: Administers and oversees aspects of UNMIK Pillar IV, which relates to the administration of the Prishtina International Airport and oversight of relevant agencies such as ATCS.
+
+",POSITIVE,2.pdf
+Kosovo Trust Agency,UNMIK,"3. **Kosovo Trust Agency (KTA)**: Responsible for managing the airport operations and finances in Kosovo, under the broader purview of UNMIK.
+
+",POSITIVE,2.pdf
+the United Nations,European Union,"In summary, the relationships among these organizations depict a layered governance structure in Kosovo, with the United Nations at the helm, supported by European Union oversight and the involvement of local institutions managing the operational and financial aspects of the Prishtina International Airport.",POSITIVE,2.pdf
+European Union,the Prishtina International Airport,"In summary, the relationships among these organizations depict a layered governance structure in Kosovo, with the United Nations at the helm, supported by European Union oversight and the involvement of local institutions managing the operational and financial aspects of the Prishtina International Airport.",POSITIVE,2.pdf
+PEAP,the Airport Engineer,"5. **Contradictory Statements**: Interviews with different parties involved, including a PEAP official and the Airport Engineer, revealed conflicting statements regarding their involvement and knowledge of the procurement process.
+
+",NEGATIVE,44.pdf

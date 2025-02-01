@@ -1,0 +1,70 @@
+<script>
+
+function updateGraph() {
+    let country = document.getElementById("country")?.value || "All";
+    let sentiment = document.getElementById("sentiment")?.value || "All";
+    let region = document.getElementById("region")?.value || "All";
+    let topN = document.getElementById("topN")?.value || "30";
+    let minRelationships = document.getElementById("minRelationships")?.value || "1";
+    let graphType = document.getElementById("graphType")?.value || "news"; 
+
+    let iframe = document.getElementById("graphFrame");
+
+    // ✅ Fetch the new graph file and update the iframe
+    fetch(`/update_graph/${graphType}?country=${country}&sentiment=${sentiment}&region=${region}&top_n=${topN}&min_relationships=${minRelationships}`)
+        .then(response => response.text())  // ✅ Get the correct graph file URL
+        .then(url => {
+            console.log("Updated Graph URL:", url);  // ✅ Debugging log
+            iframe.src = url;  // ✅ Update iframe with the correct URL
+        })
+        .catch(error => console.error("Error updating graph:", error));
+}
+
+
+</script>
+
+<!-- Dropdown to Select Graph Type -->
+<label for="graphType">Select Graph:</label>
+<select id="graphType" onchange="updateGraph()">
+    <option value="news">News Relationships</option>
+    <option value="country">Country Relationships</option>
+    <option value="organization">Organization Relationships</option>
+</select>
+
+<label for="region">Select Region:</label>
+<select id="region" onchange="updateGraph()">
+    <option value="All">All</option>
+    <option value="North America">North America</option>
+    <option value="Europe">Europe</option>
+    <option value="Asia">Asia</option>
+    <option value="South America">South America</option>
+    <option value="Africa">Africa</option>
+    <option value="Oceania">Oceania</option>
+</select>
+
+<label for="sentiment">Select Sentiment:</label>
+<select id="sentiment" onchange="updateGraph()">
+    <option value="All">All</option>
+    <option value="Positive">Positive</option>
+    <option value="Negative">Negative</option>
+    <option value="Neutral">Neutral</option>
+</select>
+
+
+
+<label for="topN">Top N Most Mentioned:</label>
+<select id="topN" onchange="updateGraph()">
+    <option value="30">Top 30</option>
+    <option value="50">Top 50</option>
+    <option value="100">Top 100</option>
+    <option value="All">All</option>
+</select>
+
+<label for="minRelationships">Minimum Relationship Strength:</label>
+<select id="minRelationships" onchange="updateGraph()">
+    <option value="1">Show All</option>
+    <option value="2">At least 2 times</option>
+    <option value="3">At least 3 times</option>
+    <option value="4">At least 4 times</option>
+    <option value="5">At least 5 times</option>
+</select>

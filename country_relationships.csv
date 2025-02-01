@@ -1,0 +1,185 @@
+source,target,sentence,sentiment,source_file
+Afghanistan,U.S.,"2. **Agenda for U.S.-France Meeting**: French President Nicolas Sarkozy planned to raise sensitive topics during a meeting with U.S. President Barack Obama on March 31, 2010, which include concerns about intelligence cooperation, military trainers in Afghanistan, a defense contract with EADS, and a branding dispute involving Pernod Ricard.
+
+",POSITIVE,89.pdf
+U.S.,France,"3. **Intelligence Cooperation**: Sarkozy expressed frustration with the U.S. regarding surveillance activities on France, signifying the importance of intelligence cooperation between the two nations.
+
+",POSITIVE,89.pdf
+Afghanistan,U.S.,"**Military Involvement**: Sarkozy was considering increasing military trainers in Afghanistan, needing clarification on the numbers from U.S. sources.
+
+",NEGATIVE,89.pdf
+Iran,Afghanistan,"**International Issues Involving Multiple Nations**: The reference to topics such as Iran, Afghanistan, and climate change illustrates the broader international context in which the relationships between these organizations exist, emphasizing collaborative challenges across national borders. 
+
+",POSITIVE,89.pdf
+Kenya,Gigiri,"**Background of UNPOS**: UNPOS, established by the Department of Political Affairs (DPA), is located in Gigiri, Kenya, and receives support from UNON.
+
+",POSITIVE,73.pdf
+Somalia,Nairobi,"1. **UNON and UNPOS Relationship**: 
+   - UNON (United Nations Office in Nairobi) provides common services support to UNPOS (United Nations Political Office for Somalia).",POSITIVE,73.pdf
+Poznan,Brussels,"2. **Impact of EU Summit on Climate Change Conferences**: The upcoming EU Summit in Brussels is seen as critical for influencing the UN Conference on Climate Change in Poznan and the 2009 Copenhagen Talks.
+
+",NEGATIVE,114.pdf
+Spain,Italy,"**EU Council's Position**: Herman Van Rompuy, the EU Council President, encouraged Italy to adopt policies to mitigate perceptions of its debt issues, suggesting that Spain's approach could serve as a model for Italy.
+
+### Relationships Involving Entities of Type Organization:
+",POSITIVE,111.pdf
+Spain,Italy,"4. **Spanish Government**: Spain is referenced as a model for the Italian government to emulate, highlighting a relationship between Italy and Spain through shared economic policies and challenges.",POSITIVE,111.pdf
+Japan,U.S.,"4. **Bilateral Relations and Climate Change**: The article emphasizes the importance of bilateral relations between Japan and the U.S. concerning environmental issues, highlighting Japan's strategy to align messaging on climate change with U.S. interests.
+
+",POSITIVE,105.pdf
+Japan,U.S.,"3. **Ministry of Foreign Affairs (MFA)**:
+   - **Relation to the U.S. Government**: The MFA expressed a cautious stance towards informing the U.S. about Japan's climate goals due to expected opposition, demonstrating a diplomatic relationship influenced by international climate negotiations.
+
+",POSITIVE,105.pdf
+METI,U.S.,"**Japanese Government as a Collective Entity**:
+   - **Relation to the U.S. Government**: The interactions and negotiations between the Japanese governmental bodies (METI and MFA) and the U.S. government highlight the diplomatic efforts and concerns regarding environmental initiatives.
+
+",POSITIVE,105.pdf
+Japan,U.S.,"**Collaboration Between Regions**: The EU and Japan are strategizing together to formulate a common policy in response to the U.S.'s approach in the Doha Round negotiations.
+  
+",POSITIVE,110.pdf
+Japan,U.S.,"2. **Caution Against U.S. Tactics**: Both the EU and Japan are aware of the risk of conceding to U.S. tactics, particularly in relation to exaggerated demands meant to extract concessions.
+
+",NEUTRAL,110.pdf
+Japan,U.S.,"6. **Avoiding Past Mistakes**: EU officials are reassuring Japan that they will not pursue secretive bilateral agreements with the U.S., learning from past experiences.
+
+### Relationships Involving Entities of Type Organization:
+
+- **European Union (EU)** and **Japan**: Both organizations are collaborating in strategy sessions to tackle the challenges posed by the U.S. in international negotiations.
+  
+- **EU** and **U.S.**: The EU is negotiating terms with the U.S. regarding agricultural support levels and access to markets, while being cautious of U.S. tactics.
+
+- **Japan** and **U.S.**: Japan is also responding to the U.S.’s demands and negotiating terms that would suit their interests, particularly in the context of agricultural supports.
+
+- **EU** and **Developing Countries**: The EU has concerns about a potential showdown with developing countries over the classification of special products in the negotiations.
+
+",POSITIVE,110.pdf
+Japan,U.S.,"** and **Japan (represented by Matsuoka)**: These officials are directly engaged in discussions regarding the proposed figures for U.S. agricultural support, illustrating inter-organizational dialogue.
+
+",POSITIVE,110.pdf
+Japan,U.S.,"Through these relationships, it can be observed that the EU and Japan are positioned as strategic allies in the face of negotiation challenges originating from the U.S. decisions in the Doha Round.",POSITIVE,110.pdf
+Japan,EU,"3. **Japan and EU**: The relationship is characterized by speculation and criticism, as Japanese officials are concerned about the EU's ability to implement the sectoral approach effectively.
+
+",NEGATIVE,106.pdf
+the United States,Israel,"**Israel's Diplomatic Outreach**: Israel has approached Europe, specifically Italy, to assist in improving its strained relations with the United States.
+  
+",POSITIVE,112.pdf
+Israel,Italy,"**Israel's Diplomatic Outreach**: Israel has approached Europe, specifically Italy, to assist in improving its strained relations with the United States.
+  
+",POSITIVE,112.pdf
+Israel,East Jerusalem,"2. **Dispute Trigger**: Israeli Prime Minister Binyamin Netanyahu attributed the rift to Israel's decision to build 1,600 homes in East Jerusalem, asserting this aligns with long-standing national policy.
+
+",NEUTRAL,112.pdf
+the United States,Israel,"**Italian Support**: Italian Prime Minister Silvio Berlusconi offered Italy's support to help mend Israel’s relations with the United States.
+
+",POSITIVE,112.pdf
+Israel,Italy,"**Italian Support**: Italian Prime Minister Silvio Berlusconi offered Italy's support to help mend Israel’s relations with the United States.
+
+",POSITIVE,112.pdf
+United States,Israel,"### Relationships Involving Entities of Type Organization:
+- **Israel (Nation-State)**: Reached out to European nations, specifically Italy, to help improve its relations with the U.S.
+  
+- **Italy (Nation-State)**: Engaged with Israel, specifically through Prime Minister Silvio Berlusconi, to offer assistance in diplomatic efforts aimed at restoring ties with the U.S.
+  
+- **United States (Nation-State)",POSITIVE,112.pdf
+Israel,Italy,"### Relationships Involving Entities of Type Organization:
+- **Israel (Nation-State)**: Reached out to European nations, specifically Italy, to help improve its relations with the U.S.
+  
+- **Italy (Nation-State)**: Engaged with Israel, specifically through Prime Minister Silvio Berlusconi, to offer assistance in diplomatic efforts aimed at restoring ties with the U.S.
+  
+- **United States (Nation-State)",POSITIVE,112.pdf
+Italy,U.S.,"### Relationships Involving Entities of Type Organization:
+- **Israel (Nation-State)**: Reached out to European nations, specifically Italy, to help improve its relations with the U.S.
+  
+- **Italy (Nation-State)**: Engaged with Israel, specifically through Prime Minister Silvio Berlusconi, to offer assistance in diplomatic efforts aimed at restoring ties with the U.S.
+  
+- **United States (Nation-State)",POSITIVE,112.pdf
+Israel,East Jerusalem,"**: The entity with which Israel is currently experiencing a diplomatic rift, influenced by the construction plans in East Jerusalem.
+
+",POSITIVE,112.pdf
+the United States,Israel,"In summary, the organizations (nation-states) involved are Israel and Italy, with the United States as the external entity impacting the diplomatic situation.",NEUTRAL,112.pdf
+Israel,Italy,"In summary, the organizations (nation-states) involved are Israel and Italy, with the United States as the external entity impacting the diplomatic situation.",NEUTRAL,112.pdf
+Israel,Italy,Italy is positioned as a mediator or supporter in facilitating better relations for Israel with the U.S.,POSITIVE,112.pdf
+Italy,U.S.,Italy is positioned as a mediator or supporter in facilitating better relations for Israel with the U.S.,POSITIVE,112.pdf
+Germany,U.S.,"2. **U.S. Position and Heiligendamm Agreement**: Germany is concerned about whether the U.S. will agree to extend previous language from the Heiligendamm G-8 summit if emerging countries do not accept numerical targets at the Major Economies Meeting (MEM).
+
+",NEGATIVE,113.pdf
+China,India,"3. **Participants in Climate Change Discussions**: Leaders from 16 countries, including G-8 members and others like China, India, Brazil, and Indonesia, are scheduled to discuss climate change during the summit in Japan.
+
+",POSITIVE,113.pdf
+India,Japan,"3. **Participants in Climate Change Discussions**: Leaders from 16 countries, including G-8 members and others like China, India, Brazil, and Indonesia, are scheduled to discuss climate change during the summit in Japan.
+
+",POSITIVE,113.pdf
+Japan,Indonesia,"3. **Participants in Climate Change Discussions**: Leaders from 16 countries, including G-8 members and others like China, India, Brazil, and Indonesia, are scheduled to discuss climate change during the summit in Japan.
+
+",POSITIVE,113.pdf
+Indonesia,Brazil,"3. **Participants in Climate Change Discussions**: Leaders from 16 countries, including G-8 members and others like China, India, Brazil, and Indonesia, are scheduled to discuss climate change during the summit in Japan.
+
+",POSITIVE,113.pdf
+Japan,Germany,"4. **Dialogue Between Japan and Germany**: There is an ongoing dialogue between Japan's G-8 sherpa, Masaharu Kono, and Germany's counterpart, Bernd Pfaffenback, regarding the issues to be addressed at the summit.
+
+",POSITIVE,113.pdf
+Germany,U.S.,"5. **Germany’s Compromise on Carbon Dioxide Reduction**: Germany is likely to drop its demand for a 25- to 45-percent mid-term carbon dioxide reduction in response to a U.S. request.
+
+",NEGATIVE,113.pdf
+India,China,"**G-8** is set to collaborate with various emerging economies like **China, India, Brazil,** and **Indonesia** during the summit discussions.
+
+",POSITIVE,113.pdf
+China,Brazil,"**G-8** is set to collaborate with various emerging economies like **China, India, Brazil,** and **Indonesia** during the summit discussions.
+
+",POSITIVE,113.pdf
+Brazil,Indonesia,"**G-8** is set to collaborate with various emerging economies like **China, India, Brazil,** and **Indonesia** during the summit discussions.
+
+",POSITIVE,113.pdf
+South Korea,South Africa,"- **Major Economies Meeting (MEM)** is also connected to both **Germany** and **the U.S.**, as it plays a critical role in determining whether numerical targets will be accepted.
+
+- **Emerging Economies** include organizations or nations like **South Korea, South Africa,** and **Mexico**, which have a stake in the discussions at the G-8 summit and its outcome.
+
+",POSITIVE,113.pdf
+South Africa,U.S.,"- **Major Economies Meeting (MEM)** is also connected to both **Germany** and **the U.S.**, as it plays a critical role in determining whether numerical targets will be accepted.
+
+- **Emerging Economies** include organizations or nations like **South Korea, South Africa,** and **Mexico**, which have a stake in the discussions at the G-8 summit and its outcome.
+
+",POSITIVE,113.pdf
+Australia,Canada,"**Intelligence Sharing**: The report was intended for sharing with the United States' Five Eyes intelligence partners: Australia, Canada, Great Britain, and New Zealand.
+
+",NEGATIVE,107.pdf
+Canada,Great Britain,"**Intelligence Sharing**: The report was intended for sharing with the United States' Five Eyes intelligence partners: Australia, Canada, Great Britain, and New Zealand.
+
+",NEGATIVE,107.pdf
+Great Britain,New Zealand,"**Intelligence Sharing**: The report was intended for sharing with the United States' Five Eyes intelligence partners: Australia, Canada, Great Britain, and New Zealand.
+
+",NEGATIVE,107.pdf
+New Zealand,the United States',"**Intelligence Sharing**: The report was intended for sharing with the United States' Five Eyes intelligence partners: Australia, Canada, Great Britain, and New Zealand.
+
+",NEGATIVE,107.pdf
+Canada,Australia,"**: Engaged in discussions about climate change policies.
+  - **Ministry of Foreign Affairs (MFA)**: Participating in negotiations and international relations regarding climate strategy.
+  - **Ministry of Finance**: Involved in shaping financial commitments related to climate initiatives.
+  - **Ministry of Environment**: Central to discussions concerning environmental goals and policies.
+
+- **Five Eyes Alliance**: The report was intended for sharing among Western intelligence entities:
+  - **Australia**
+  - **Canada**
+  - **Great Britain**
+  - **New Zealand**
+
+These organizations reflect a network of both intelligence and governmental cooperation focused on climate change policy at an international summit.",POSITIVE,107.pdf
+Australia,New Zealand,"**: Engaged in discussions about climate change policies.
+  - **Ministry of Foreign Affairs (MFA)**: Participating in negotiations and international relations regarding climate strategy.
+  - **Ministry of Finance**: Involved in shaping financial commitments related to climate initiatives.
+  - **Ministry of Environment**: Central to discussions concerning environmental goals and policies.
+
+- **Five Eyes Alliance**: The report was intended for sharing among Western intelligence entities:
+  - **Australia**
+  - **Canada**
+  - **Great Britain**
+  - **New Zealand**
+
+These organizations reflect a network of both intelligence and governmental cooperation focused on climate change policy at an international summit.",POSITIVE,107.pdf
+Bratislava,Slovakia,"**Incident Details**: The United Nations Development Programme (UNDP) in Bratislava, Slovakia, made payments totaling $10,079 to an individual based on falsified documents.
+
+",NEGATIVE,21.pdf
+Japan,U.S.,"**Back Channels**: The report suggests that Japan was contemplating using back channels to communicate with the U.S. to acknowledge that the decision to delay was politically motivated.
+
+",NEGATIVE,108.pdf
