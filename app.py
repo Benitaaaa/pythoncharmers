@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 # Load preprocessed data (Avoids re-scraping every time)
 try:
-    with open("processed_data.pkl", "rb") as f:
+    with open("pythoncharmers/processed_data.pkl", "rb") as f:
         data = pickle.load(f)
         relationships = data["relationships"]
         country_mentions = data["country_mentions"]
@@ -88,7 +88,7 @@ def generate_filtered_pyvis_graph(country="All", sentiment="All", region="All", 
         net.add_edge(source, target, width=2, color=edge_color, title=relation["sentence"])
 
     # Save the graph as an HTML file
-    output_file = "templates/country_network_filtered.html"
+    output_file = "pythoncharmers/templates/country_network_filtered.html"
     net.show(output_file)
     return output_file
 
