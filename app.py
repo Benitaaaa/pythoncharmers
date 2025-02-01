@@ -242,7 +242,7 @@ def update_graph(graph_type):
             entity_type=graph_type, sentiment=sentiment, region=region, top_n=top_n, min_relationships=min_relationships
         )
 
-    graph_url = f"/pythoncharmers/static/{os.path.basename(graph_file)}"
+    graph_url = f"/static/{os.path.basename(graph_file)}"
 
     return jsonify({
         "graph_url": graph_url,
