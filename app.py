@@ -88,7 +88,7 @@ def generate_filtered_pyvis_graph(country="All", sentiment="All", region="All", 
         net.add_edge(source, target, width=2, color=edge_color, title=relation["sentence"])
 
     # Save the graph as an HTML file
-    output_file = "templates/country_network_filtered.html"
+    output_file = "country_network_filtered.html"
     net.show(output_file)
     return output_file
 
