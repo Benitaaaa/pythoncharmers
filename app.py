@@ -71,12 +71,19 @@ def generate_filtered_pyvis_graph(country="All", sentiment="All", region="All", 
 
     # Step 1: Apply Filters
     filtered_relationships = [
-        r for r in relationships
-        if (country == "All" or r['source'] == country or r['target'] == country) and
-           (sentiment == "All" or r['sentiment'].lower() == sentiment.lower()) and
-           (region == "All" or get_continent(r['source']) in region or get_continent(r['target']) in region)
-
+    r for r in relationships
+    if (country == "All" or r['source'] == country or r['target'] == country)
+    and (sentiment == "All" or r.get('sentiment', 'Neutral').lower() == sentiment.lower())
+    and (region == "All" or (
+         get_continent(r['source']) == region and get_continent(r['target']) == region))  # ✅ Ensure BOTH match the region
     ]
+
+
+    # Debugging: Print actual continent values
+    #for r in filtered_relationships:
+    #    print(f"Source: {r['source']} -> {get_continent(r['source'])}, "
+    #        f"Target: {r['target']} -> {get_continent(r['target'])}, "
+    #        f"Filter Region: {region}")
 
     # Step 2: Keep only the Top N Most Mentioned Countries
     if top_n and top_n != "All":
@@ -141,9 +148,10 @@ def generate_filtered_pyvis_graph_pdf(entity_type="country", country="All", sent
         if (country == "All" or r["source"] == country or r["target"] == country)  # ✅ Country filter
         and (sentiment == "All" or r["sentiment"].lower() == sentiment.lower())  # ✅ Sentiment filter
         and (region == "All" or (
-                entity_type == "country" and (get_continent(r["source"]) == region or get_continent(r["target"]) == region)
+                entity_type == "country" and (get_continent(r["source"]) == region and get_continent(r["target"]) == region)
         ))  # ✅ Region filter (Only for countries, not organizations)
     ]
+
 
     # ✅ Step 2: Keep Only the Top N Most Mentioned Entities (Countries or Organizations)
     if top_n and top_n != "All":
@@ -221,13 +229,17 @@ def update_graph(graph_type):
     top_n = request.args.get("top_n", "30")
     min_relationships = request.args.get("min_relationships", "1")
 
+    print(f"🌍 Region Received in Flask: '{region}'")
+
+    print(f"Updating graph with filters: {country}, {sentiment}, {region}, {top_n}, {min_relationships}")
+
     if graph_type == "news":
         graph_file = generate_filtered_pyvis_graph(
             country=country, sentiment=sentiment, region=region, top_n=top_n, min_relationships=min_relationships
         )
     else:
         graph_file = generate_filtered_pyvis_graph_pdf(
-            entity_type=graph_type, sentiment=sentiment, top_n=top_n, min_relationships=min_relationships
+            entity_type=graph_type, sentiment=sentiment, region=region, top_n=top_n, min_relationships=min_relationships
         )
 
     return f"/static/{os.path.basename(graph_file)}"
