@@ -128,7 +128,7 @@ def generate_filtered_pyvis_graph(country="All", sentiment="All", region="All", 
         net.add_edge(source, target, width=2, color=edge_color, title=relation["sentence"])
 
     # Save the graph
-    output_file = "static/country_network_filtered.html"
+    output_file = "pythoncharmers/static/country_network_filtered.html"
     net.show(output_file)
     # time.sleep(0.7)
     return output_file
@@ -192,7 +192,7 @@ def generate_filtered_pyvis_graph_pdf(entity_type="country", country="All", sent
         net.add_edge(relation["source"], relation["target"], width=2, color=edge_color, title=relation["sentence"])
 
     # Save the Graph
-    output_file = f"static/{entity_type}_network_filtered_pdf.html"
+    output_file = f"pythoncharmers/{entity_type}_network_filtered_pdf.html"
     net.show(output_file)
     return output_file
 
@@ -204,19 +204,19 @@ def home():
 @app.route("/graph/news")
 def graph_news():
     graph_file = generate_filtered_pyvis_graph()
-    graph_url = f"/static/{graph_file.split('/')[-1]}"  # Convert file path to URL
+    graph_url = f"pythoncharmers/static/{graph_file.split('/')[-1]}"  # Convert file path to URL
     return render_template("graph_wrapper.html", graph_url=graph_url, title="Country Relations from Scraping News Articles")
 
 @app.route("/graph/country")
 def graph_country():
     graph_file = generate_filtered_pyvis_graph_pdf(entity_type="country")
-    graph_url = f"/static/{graph_file.split('/')[-1]}"  # Convert file path to URL
+    graph_url = f"pythoncharmers/static/{graph_file.split('/')[-1]}"  # Convert file path to URL
     return render_template("graph_wrapper.html", graph_url=graph_url, title="Country Relations from Given Reports")
 
 @app.route("/graph/organization")
 def graph_organization():
     graph_file = generate_filtered_pyvis_graph_pdf(entity_type="organization")
-    graph_url = f"/static/{graph_file.split('/')[-1]}"  # Convert file path to URL
+    graph_url = f"pythoncharmers/static/{graph_file.split('/')[-1]}"  # Convert file path to URL
     return render_template("graph_wrapper.html", graph_url=graph_url, title="Organization Relations from Given Reports")
 
 @app.route("/update_graph/<graph_type>")
@@ -242,7 +242,7 @@ def update_graph(graph_type):
             entity_type=graph_type, sentiment=sentiment, region=region, top_n=top_n, min_relationships=min_relationships
         )
 
-    graph_url = f"/static/{os.path.basename(graph_file)}"
+    graph_url = f"/pythoncharmers/static/{os.path.basename(graph_file)}"
 
     return jsonify({
         "graph_url": graph_url,
