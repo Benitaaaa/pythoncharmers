@@ -23,5 +23,10 @@
     <iframe id="graphFrame" src="{{ graph_url }}" width="100%" height="700px"></iframe>
 
     <br><a href="/">Back to Home</a>
+
+    <script>
+        console.log("From graph_wrapper.html. This is the graph url being passed below:")
+        console.log(document.getElementById("graphFrame").src)
+    </script>
 </body>
 </html>
