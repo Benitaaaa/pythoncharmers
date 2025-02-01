@@ -1,0 +1,146 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Poppins, sans-serif;
+    color: white;
+}
+
+html, body {
+    background-color: black;
+    color: white;
+}
+
+body {
+    background: rgb(16,21,28);
+    background: linear-gradient(0deg, rgb(26, 34, 48) 0%, rgba(16,21,28,1) 100%);
+    background-attachment: fixed;
+    background-image: url(bg.jpg);
+    background-size: cover;
+    min-height: 100vh;
+}
+.teal {
+    color: #8ef5d1;
+}
+.blue {
+    color: #a0c3ff;
+}
+.yellow {
+    color: #edca85;
+}
+.violet{
+    color: #9693f0;
+}
+
+a {
+    color: white;
+    text-decoration: none !important;
+}
+
+.section {
+    padding: 60px 20px;
+}
+
+.hero {
+    text-align: center;
+    padding: 80px 20px;
+    min-height: calc(100vh);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #00102298;
+}
+
+.hero::before {
+    content: '';
+    position: absolute;
+    top: 70px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    opacity: 0.03; /* Adjust transparency */
+    z-index: 0; /* Ensure the background stays behind other content */
+    pointer-events: none; /* Ensures the overlay doesn't block interactions with content */
+}
+
+.hero .container {
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    max-width: 1000px;
+}
+
+.hero h1{
+    font-family: "Space Grotesk";
+    color: #8ef5d1;
+    font-size: 2.8rem;
+    background: linear-gradient(271deg,#a0c3ff 30%,#62e8b9 50%,#9693f0 70%,#edca85 94%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.hero p{
+    font-size: 1.5rem;
+    color: white;
+    font-family: Poppins;
+}
+
+.navbar a{
+    color: #00D19F;
+    font-family: Quicksand, Poppins, sans-serif;
+}
+
+.navbar a:hover{
+    color: #edca85;
+}
+
+.logo {
+    height: 50px;
+}
+
+.section-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+h2 {
+    font-family: "Quicksand", Poppins, sans-serif;
+    font-size: 2.5rem !important;
+}
+
+.menu-container {
+    margin: 30px auto;
+}
+select {
+    font-size: 16px;
+    padding: 10px;
+    width: 500px;
+    color: #151b54;
+}
+option {
+    color: #151b54;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: #151b54;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 300px;
+}
+button:hover {
+    background-color: #0056b3;
+}

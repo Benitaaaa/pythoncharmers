@@ -166,7 +166,10 @@ class SummarizedTextAnalyzer:
 
         # ✅ Extract country relationships with sentiment
         for sent in doc.sents:
-            entities_in_sent = [e.text for e in sent.ents if e.label_ == "GPE"]
+            entities_in_sent = [self.standardize_country_name(e.text) for e in sent.ents if e.label_ == "GPE"]
+            #entities_in_sent = [e.text for e in sent.ents if e.label_ == "GPE"]
+            entities_in_sent = [e for e in entities_in_sent if e]
+            
             if len(entities_in_sent) >= 2:
                 sentiment = self.get_sentiment(sent.text)  # ✅ Sentiment only for summarized text
                 self.country_relationships.append({
