@@ -1,5 +1,6 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, send_from_directory
 import pickle
+# import time
 from pyvis.network import Network
 import math
 from collections import defaultdict
@@ -90,6 +91,7 @@ def generate_filtered_pyvis_graph(country="All", sentiment="All", region="All", 
     # Save the graph as an HTML file
     output_file = "pythoncharmers/templates/country_network_filtered.html"
     net.show(output_file)
+    # time.sleep(0.7)
     return output_file
 
 # Main Route (Homepage)
@@ -107,7 +109,8 @@ def graph():
     min_relationships = request.args.get("min_relationships", "2")
     print(f"Current Working Directory: {os.getcwd()}")
     graph_file = generate_filtered_pyvis_graph(country, sentiment, region, top_n, min_relationships)
-    return render_template("country_network_filtered.html")
+    return send_from_directory("country_network_filtered.html")
+    # return render_template("country_network_filtered.html")
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5001))
