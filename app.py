@@ -192,7 +192,7 @@ def generate_filtered_pyvis_graph_pdf(entity_type="country", country="All", sent
         net.add_edge(relation["source"], relation["target"], width=2, color=edge_color, title=relation["sentence"])
 
     # Save the Graph
-    output_file = f"pythoncharmers/{entity_type}_network_filtered_pdf.html"
+    output_file = f"pythoncharmers/static/{entity_type}_network_filtered_pdf.html"
     net.show(output_file)
     return output_file
 
