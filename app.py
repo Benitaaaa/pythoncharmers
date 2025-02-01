@@ -24,7 +24,7 @@ except FileNotFoundError:
 
 try:
     # Load processed country and organization data
-    with open("processed_countries_and_organizations.pkl", "rb") as f:
+    with open("pythoncharmers/processed_countries_and_organizations.pkl", "rb") as f:
         country_org_data = pickle.load(f)
         
         country_relationships = country_org_data.get("country_relationships", [])
