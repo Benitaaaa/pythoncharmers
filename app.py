@@ -35,6 +35,7 @@ def get_continent(country_name):
 
 # Function to generate Pyvis graph dynamically based on filters
 def generate_filtered_pyvis_graph(country, sentiment, region, top_n, min_relationships):
+    print(f"This is inside generate_filtered_pyvis_graph {country, sentiment, region, top_n, min_relationships}")
     net = Network(height="900px", width="100%", bgcolor="#222222", font_color="white", notebook=True, cdn_resources='in_line')
     net.force_atlas_2based(gravity=-30, central_gravity=0.02, spring_length=250, spring_strength=0.1)
 

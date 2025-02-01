@@ -13,8 +13,7 @@
             let minRelationships = document.getElementById("minRelationships").value;
 
             let iframe = document.getElementById("graphFrame");
-            iframe.src = `/graph?country=${country}&sentiment=${sentiment}&region=${region}&top_n=${topN}&min_relationships=${minRelationships}`;
-        }
+            iframe.src = `/graph?country=${country}&sentiment=${sentiment}&region=${region}&top_n=${topN}&min_relationships=${minRelationships}&cache_buster=${Date.now()}`;        }
     </script>
 </head>
 <body>
