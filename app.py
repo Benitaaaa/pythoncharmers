@@ -199,19 +199,19 @@ def home():
 @app.route("/graph/news")
 def graph_news():
     graph_file = generate_filtered_pyvis_graph()
-    graph_url = f"/static/{graph_file.split('/')[-1]}"  # Convert file path to URL
+    graph_url = f"pythoncharmer/static/{graph_file.split('/')[-1]}"  # Convert file path to URL
     return render_template("graph_wrapper.html", graph_url=graph_url, title="News Relationships")
 
 @app.route("/graph/country")
 def graph_country():
     graph_file = generate_filtered_pyvis_graph_pdf(entity_type="country")
-    graph_url = f"/static/{graph_file.split('/')[-1]}"  # Convert file path to URL
+    graph_url = f"pythoncharmer/static/{graph_file.split('/')[-1]}"  # Convert file path to URL
     return render_template("graph_wrapper.html", graph_url=graph_url, title="Country Relationships")
 
 @app.route("/graph/organization")
 def graph_organization():
     graph_file = generate_filtered_pyvis_graph_pdf(entity_type="organization")
-    graph_url = f"/static/{graph_file.split('/')[-1]}"  # Convert file path to URL
+    graph_url = f"pythoncharmer/static/{graph_file.split('/')[-1]}"  # Convert file path to URL
     return render_template("graph_wrapper.html", graph_url=graph_url, title="Organization Relationships")
 
 @app.route("/update_graph/<graph_type>")
@@ -232,7 +232,7 @@ def update_graph(graph_type):
             entity_type=graph_type, sentiment=sentiment, top_n=top_n, min_relationships=min_relationships
         )
 
-    return f"/static/{os.path.basename(graph_file)}"
+    return f"pythoncharmer/static/{os.path.basename(graph_file)}"
 
 
 if __name__ == "__main__":
