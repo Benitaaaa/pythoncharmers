@@ -41,4 +41,9 @@ go to browser and click
 http://127.0.0.1:5001
 ```
 
+## 🌐 Live Demo  
+🚀 The web application is hosted on **PythonAnywhere**. Click the link below to access it:  
+
+🔗 **[Access the Web App] https://phaandaa.pythonanywhere.com/**
+
  
