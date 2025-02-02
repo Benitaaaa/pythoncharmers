@@ -16,26 +16,26 @@ This is a **Flask-based web application** that processes **news articles and rep
 
 ## 🛠 Installation & Setup
 
-### 1️⃣ **Clone the Repository**
+### 1. **Clone the Repository**
 ```bash
 git clone https://github.com/tiarahimawan/pythoncharmers.git
 cd pythoncharmers
 ```
 
 
-### 2 **Install Dependencies**
+### 2. **Install Dependencies**
 ```
 pip install -r requirements.txt
 ```
 
-### 3 **Run Application**
+### 3. **Run Application**
 ```
 python process_data.py
 python process_summarized_data.py
 python app.py
 ```
 
-### 4 **Access Web Application**
+### 4. **Access Web Application**
 go to browser and click
 ```
 http://127.0.0.1:5001
