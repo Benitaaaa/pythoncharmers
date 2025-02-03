@@ -10,6 +10,13 @@ from transformers import pipeline, AutoTokenizer
 from fitz import open as fitz_open  # PyMuPDF
 import openai
 import pycountry
+from dotenv import load_dotenv
+import os
+
+
+
+# Load environment variables from .env file
+load_dotenv() 
 
 # Load SpaCy NLP model
 nlp = spacy.load("en_core_web_sm")
@@ -19,7 +26,7 @@ sentiment_pipeline = pipeline('sentiment-analysis', model='distilbert-base-uncas
 tokenizer = AutoTokenizer.from_pretrained("distilbert-base-uncased-finetuned-sst-2-english")
 
 # OpenAI API Client (Set API Key Securely)
-client = openai.OpenAI(api_key="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")  
+client = openai.OpenAI(api_key=os.getenv("GITHUB_API_KEY"))  
 
 class SummarizedTextAnalyzer:
     def __init__(self):
